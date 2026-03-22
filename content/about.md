@@ -1,15 +1,16 @@
 ---
-title: about
+title: About
 created: 2026-03-21
 modified: 2026-03-21
 publish: true
 tags:
-  - seedling
+  - page
 description: ""
 ---
 
 ## Who?
-At birth, I was assigned the label "Thea", and people have referred to me as this throughout my life, so I guess that's my name. I have experienced almost 23 years as a human on this planet.
+At birth, I was assigned the label "Thea", and people have referred to me as this throughout my life, so I guess that's my name.
+I have experienced almost 23 years as a human on this planet.
 
 ## What?
 I have thoughts and I want to share them. This site thing is a place to share them
