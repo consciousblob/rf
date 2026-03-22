@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Root-Finding",
-    pageTitleSuffix: " - Root-Finding",
+    pageTitleSuffix: " - RF",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
