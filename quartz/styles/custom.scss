@@ -19,3 +19,25 @@
     background-position: center;
   }
 }
+
+strong {
+  font-weight: 900;
+  -webkit-text-stroke: 0.5px currentColor;
+}
+
+p {
+  white-space: pre-line;
+}
+
+#footnote-label {
+  @extend h1;
+}
+
+// // Explorer section title
+// .explorer .folder-title {
+//   font-size: 1.4rem;
+// }
+
+// .page-title {
+//   font-size: 2rem;
+// }

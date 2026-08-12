@@ -23,7 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    //Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -38,7 +38,9 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  filterFn: (node) => !["Notes", "thoughts"].includes(node.displayName),
+}),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +64,9 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  filterFn: (node) => !["Notes", "thoughts"].includes(node.displayName),
+}),
   ],
   right: [],
 }

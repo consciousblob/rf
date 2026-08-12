@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Capriola",
+        body: "Nunito Sans", // Source Sans Pro
         code: "IBM Plex Mono",
       },
       colors: {
@@ -45,10 +45,10 @@ const config: QuartzConfig = {
           gray: "#404040",
           darkgray: "#e0e0e0",
           dark: "#ffffff",
-          secondary: "#ecc889", // Gold links
-          tertiary: "#652cd6",  // Purple hover
-          highlight: "rgba(236, 200, 137, 0.1)",
-          textHighlight: "#3bed9888", // Green highlight
+          secondary: "#8c62f8", // links 8d68d9
+          tertiary: "#ecc889",  // hover ecc889
+          highlight: "#b07df800",
+          textHighlight: "#6b30ffb7", // highlight a77e38
         },
       }
     },
@@ -69,11 +69,11 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", openLinksInNewTab: true }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
