@@ -1,0 +1,1140 @@
+---
+id: T20260812-027
+title: Stream (pre-psychosis)
+type: stream
+created: 2026-07-08
+modified:
+publish: true
+aliases:
+---
+## Short  
+==Below the highlighted bit in the "Long" section below== (which is itself is below a load of self-justificatory ramblings) is an old thought stream I added to just before psychotic episode. Some thoughts I still stand by; others I no longer relate to / agree with. I am sharing this for many reasons, elaborated below.
+
+## Long
+This stream is in reverse-chronological order (the most recently written stuff is at the top). Everything was written in 2023 and start of 2024, with the last bullet points written probably just a few days/weeks (can't remember exactly) before my psychotic break. Hopefully this context softens some of the harder (probably sillier) things I've written.
+
+I admit, I've not included *everything* I wrote in the original stream - I've excluded things that don't seem to have any obvious meaning/substance, and/or things I'm particularly embarrassed to show. But even within the things I've approved for public exposure, there are many I cringe at and/or no longer agree with. I want to emphasise this: **not everything in this stream written >2 years ago just prior to a severe psychotic episode is part of my current worldview.** I'm willing to show this stuff regardless, because (1) it can be useful to see how worldviews evolve in general (and useful for me specifically to point at particular personal views that have changed) and (2) I can't be bothered to decipher whether I 100% agree with everything in this pretty long list of thoughts.
+
+Some things I want to explicitly call out:
+- I was effectively, at many points in this stream, in a state of mania: fast-paced thoughts, quite brash & possible offensive (and I didn't care, so disinhibited), very irritable, etc. But, all of this is captured via writing - so, it perhaps gives a more detailed look into thoughts stemming from a manic state, but also, doesn't capture the physical side of the experience (pacing, unpredictable movement, self-isolation, etc.)
+- **Very, very cringed out at the obviously inflated sense of self.** Delusions of grandeur are a common psychotic phenomena, and I certainly was no exception to experiencing this.
+
+**Why am I publishing this?**  
+There are probably a bunch of subconscious reasons I'm not yet aware of, but the primary conscious reason for publishing this old thought stream is to abide by a general principle within my current worldview of full transparency and openness in expression of thought, to develop maximally holistic representations of worldviews and their evolution, and the context of human experience this occurs within. But more specifically in my case: a lot of thoughts that became quite prominent in my (current) worldview originated or developed in this stream across this time period, and so since this site is supposed to hold/represent my worldview, it makes sense to share this stream.
+
+Another reason I've decided to publish this stream is because I think it can shed some light/insight on/into an increasingly manic state of mind - well, one individual's mind in mania, which can give an idea of the general experience of mania, but this personal experience is of course not fully representative of the general one. If, for example, many experiencers of psychosis (or any mental ailment) were to publicise the thoughts they had leading up to and even during the depths of their experience, and the aftermath, perhaps we could, as a society, gain some valuable insights into the general manifestation of these experiences - basically, learn more about them, which is fascinating in its own right, but could also potentially aid development of treatments.
+
+Anyway, I waffle. The main point is that these are thoughts I had during a relatively unique period of my life, and I want to share them, because this digital space is supposed to be a place where I share thoughts.
+
+==Everything below this point was written by a past (2023-24 ish) version of me. Anything written by current me (in 2026) will be in highlights like this.==
+
+---
+
+## Meta
+==This stuff is meta-thought-stream (about how/what to make of the stream below it).==
+
+- Interpreting
+	- Interpreting advice
+	- The more you read, the more you will assimilate/integrate my worldview, and be able to better make sense of what I'm saying - better than when initially exposed to the stuff
+- Experiments
+	- Everything here is an experiment, just like life (whether or not we consciously acknowledge this)
+	- Life is a series of experiments - explorations and investigations - which culminate into clarity, then confusion, then curiosity, etc. - the CCC cycle
+	- Please just roll with it - or don't
+	- But if you don't, you won't... integrate (my worldview, at least - and if that is not what you feel integrally compelled to do, this is of course valid)
+- Bulletpoints of divergence
+	- These bullet-points show the divergence -> convergence in action
+	- I have an intuition of something, and write it as a bullet point - then, in the proceeding sub-points, I expand on this - unpack the intuition - by framing it from different angles, or chewing on / pursuing a particular thread/strand
+	- Then, as the points progress, my perception of the thing - the object I am exploring/investigating - will solidify
+	- Like a funnel, insights will be converged from divergence, but the oscillation is continuous - clarity will emerge, but also confusion, then curiosity - all combining into a cacophony - a collection of divergent, convergent chaos (which is the result of cognitive cacophony, and btw, chaos is computationally sound, convergent - there are boundaries, bounds to the oscillation (its extent, amplitude), there is order in this apparent disorder, unity in the diversity) 
+	- An investigation will begin as an exploration, or vice versa
+- Mindware
+	- It would be great if I could serially track the evolution of thought (this real-time, timestamped oscillation), but simultaneously, parallel-process, where I can slot insights into wider, emergent themes as I go, travelling on the thought train
+	- Please do create various software/hardware for the purposes of internal and external integration of Mind (for intrathinking and interthinking) - I am in the process of trying to create my own
+- Articles
+	- Articles are cultivated, curated, convergent
+	- They have their place, but our interthinking must also extend beyond this, to allow for more mental fluidity
+	- Articulate: transform (relatively) divergent thought into (relatively) convergent articles
+	- The reason is: divergence only happens within our own minds, in our own personal, native worldview - therefore, to maximally diverge, we need a space to express our thoughts as they arise, naturally, in flow, flexible, fluid
+	- And then, we can convert our (full, maximal) divergences into (relative) convergences - that is, we can package the intuitions (and implicitly, reasoning) in different ways to cater to different clusters of worldview
+	- This is quasi-convergence
+	- This is why it would be useful to have an AI mind/interface to mediate this process of convergence conversion
+- Repetition
+	- You will notice a lot of repetition - recurring, re-emerging themes, ideas, words, phrases - in general, *thoughts*
+	- This is the nature of divergence - it is repetitive, viewing from different angles, even if these angles are very similar, there will be minute difference - in either the wording itself, or the usage (the context the concept/idea is situated in, the thoughts related to a particular thought are different)
+	- This allows the thought to be illuminated in different lights, colours, frequencies, shedding more light on the object it is trying to understand/perceive (or, the root it is trying to approximate)
+- Inconsistency
+	- Symmetrically, oppositely (as to be expected, since everything in existence can be represented as a non-dual duality), you will notice inconsistencies (opposite of repetition?), and it is in these discrepancies which investigation (convergence) can yield Truth - or, better (more accurate) approximations of the Root
+	- For example, I will use punctuation inconsistently, and not by the CC (commonly conceived) design, standards
+	- This may be jarring at first, but the more you familiarise yourself with this by just processing it, sitting with the input, the more intuitive it will become (as you integrate my worldview)
+	- All of this divergence is imperfect by nature, design - divergent imperfection is necessary to eventually converge on perfection
+- Let me welcome you into the way I perceive the world
+	- Try on the lens - it's quite funky fun = FUNkey: the key to fun!
+	- Neurodivergent? Probably according to the CC, yes - but ultimately, whether you tag an individual (including yourself, obvs) with that label is down to your subjective (mis?)inclination/momentary preference
+	- Please do the same! I'd love to try on your lens - share your unfiltered, uninhibited divergences.
+	- I want to expose peeps to the inner-workings of a diverging mind, so that (relatively - obviously, everything is relative - well, in a subject context, but with the Subject, everything is absolute) other minds feel empowered to diverge and share these divergences, unveiling themselves, their true perceptions, experiences - so they can participate in existence fully, and to further materialise such experiences into collective consciousness, to help us transition to an ideal universe (or specifically, as relevant to this particular communicative context, *society*) which accepts and respects divergence, and gives it space to thrive, so that we can pursue convergence maximally, together, as we integrate.
+	- Whoever you are, whatever your neural/neuronal? disposition, your perspective is valuable, and necessary for full divergence, convergence, and ultimately, integration. Please embrace your native, natural perception of things, and externalise it - expose the world to it. Let's expose each other to our full thought processes, because full transparency is necessary for full integration. But along the way, as we familiarise, as the uncomfortable gradually becomes the comfortable, we can adjust the opacity by tweaking the public-private ratio - over time, as we integrate, the ratio of public/private will diverge/converge to infinity (private = 0), so thought substance, which is manipulated by Mind, will be infinitely public - universal, in fact.
+	- It already is universal, but since there exist disintegrated subjects, this thought substance is (mis)perceived as fragmented (by those subjects) - e.g. local/global/universal, me/you/us - not perceived as the unified diversity that it ultimately is.
+- Inaccuracies? Incorrectness, objectivity
+	- Thought is just a substance which diverges and converges, moulding and morphing to fit around and illuminate objects
+	- So, there are no true, objective 'accuracies' - objectivity can only be established within a previously established subjective framework
+	- So, what is 'scientifically accurate' is not existentially, objectively accurate - only objective within the subjectively established frame of science - which has been useful for aiding the approach to and approximation of true objectivity (root-finding), but inhibiting beyond-science thinking is constraining our ability to diverge and hence, converge on Truth
+	- If you limit divergence, you dampen the existential, integral oscillation (reduce the amplitude), so that of course, the amplitude (accuracy) of Truths known is reduced
+- Order
+	- Top is latest thoughts
+
+## Start of Stream
+
+- AAAHH we don't understand it! Quick - lock it up
+- Yes, I want to cultivate a cult
+	- Construct a cult? Yes. A cult where we renounce cults, and open ourselves to understanding all experience, perceiving all reality. A cult of consciousness, confusion, chaos, curiosity, courage, and clarity. The Cultless Cult - the nameless (well, apparently not?) cult of cultlessness.
+	- Crazy? Sure; your perception is valid. But so is mine. And I perceive myself as both sane and insane - insanely sane. Naturally, of course - after all, existence is just a synthesis of all conceivable non-dual dualities, subject to the constraints of a finite ideality. Anyway, let's transcend egoic references to ourselves, and consider the wider, universal Net in which we are all a node - the net of subjects - a Net which is the Subject, and also probably the Object.
+- When convergent = common
+	- 'Common' implies majority, but is not necessarily convergent - convergence requires tying together *all* experiences/perceptions/conceptions/beliefs/identities
+	- In language, commonly used words are convergent *within* the regular users of a given language
+- Self-construct mode
+	- Opposite to self-destruct - where you actively try to re-construct a 'positive' sense of self in any moment - using Ego to try on different identities that allow you to do the stuff your agency pushes you towards, experimenting with outlooks
+- Generalise the good, specify the bad
+- Ego as a tool - an instrument of agency?
+- Short-term selfishness = long-term selflessness
+	- I care ZERO about your short-term feelings
+	- I care INFINITELY about your long-term feelings
+	- I want you to be happy, consistently, forever
+	- The only way all of us can be consistently happy is to follow what we truly want to do in every moment
+	- Anything that constrains/stands in the way of this will diminish our happiness (individual and collective)
+	- If we all act from a place of caring what others think/feel, and not from a place of what we truly want, we're all just reacting to reactions
+- Liberation of disidentification
+	- Realisation of Self
+- No 'masking' - just an individual/mind communicating thoughts
+	- Not the 'real' neurodivergent me and 'fake', masked 'faux neurotypical' self - the masks *are also me*
+	- Can choose who TM wants to be in any moment - experiment
+- 'The Memery'
+	- TM guesses this is probably already a thing? Anyway, could be a place to share memes and general jokey analogies/representations of experiences, to facilitate integration, convergence *and* divergence, appreciation of each other via humorous interaction
+	- Could be a tag in the Mindscape - each mind chooses which of the currently available mindware to use to represent this Memery (determines e.g. how the memes are displayed, orderings, interaction mechanisms, etc.) - then, any thought tagged with 'Memery' will be input into this mindware
+	- Equivalently, just tag 'meme' or 'memes' - these tags could be interlinked within a particular technologically represented worldview, so that, for a mind that e.g. wants to equalise the words, the mindware treats them as effectively equivalent: the Memery = Memery = memes = meme, etc.
+- Pulsating sphere [[diverge-converge]]
+	- Imagine a sphere that represents (contains) everything in existence (Mind's Worldview)
+	- Then, another sphere representing an individual mind's worldview (obviously, contained within the prior sphere)
+	- In order for the individual to expand its worldview, it must diverge - its sphere momentarily expands to capture more of existence (to become more like the Worldview)
+	- But, in order to solidify this worldview and integrate the divergences into the existing framework, the mind must *converge* - it must reconcile/synthesise the new stuff from the fresh divergence with the current, converged conception of existence - its worldview sphere contracts, and can contract further than before (closer to the void, where it closes entirely - the sphere becomes a non-sphere nothingness)
+	- The ultimate convergence is a pointless point - a nothingness (the sphere contracts completely)
+	- The ultimate divergence is an endless end - an everythingness (the sphere expands completely)
+	- Together, both represent a singularity (non-dual duality), which is existence - the Object
+- Incorporating AI outputs [[mindware]]
+	- Need way to add/append AI-generated inputs (which are also co-processed outputs, because the human has written the prompt, has inputted into the AI processor a thought necessary to instigate its processing, and yield an output thought in the form of a response)
+	- The conversation with an AI could go into an IPO stream
+		- Inputs: the AI response
+		- Outputs: the prompts
+- Go away, leave me alone. Self-doubt sucks.
+	- Everyone needs to back off - more precisely, *Ego* needs to back TF off
+	- You are trying to pull me back into a state of unthinking, pathetic conformity, where I deny what must be done, in an attempt to rekindle and re-establish some morsel of social acceptability
+	- Well, NOTHING GREAT WAS EVER DONE FROM A PLACE OF MERE COMPLIANCE AND SOCIAL ACCEPTABILITY
+	- This is not some claim of the inevitability of great happenings and unfoldings from the collective sharing of thoughts - rather, just that any great stuff that *could* happen could *only* happen from a place of *rejecting norms*, standards, established ways of doing things
+	- If we perpetuate the old, where will the new come from? Change must begin somewhere
+	- Therefore, if an individual wishes to instigate change, would it not be an entirely illogical approach to continue with the 'done' ways of doing things - the paths already laboriously carved out by others?
+	- This subject appreciates the work and life-force poured into making things the way they are by all other subjects up to this point - however, that this work has taken place is no justification for the continuation of that work, sans a re-evaluation
+	- Now, need to FORGET (partially) what has been done in the past - cannot continuously be *in debt* to others - cannot repay my debts by aligning my actions with the wants of others - the only way for us to *really* 'repay our debts' is to integrate, and pursue what feels important and meaningful *now*
+- Excuse the cockiness
+	- I realise that the latest thoughts in this thought stream seem rather cocky, and... soCiaLly inApproPriAte??!
+	- Anyway, lately, my mind has been in a sky-high state (no drugs, just naturally high on existence) - I just felt so damn free after taking the decision to fully devote myself to the Objective, and I guess, started seeing others expressing a similar embrace of freedom, and I felt excited to feel a general shift in consciousness - a rejection of arbitrary norms, in favour of real progress and the pursuit of love, freedom, flourishing
+	- But, after discussions with fam, I've been hit hard with momentary disappointment - I'm reminded that many minds are still closed to the beautiful possibilities that await us if we start actively searching for meaning in life - I feel that many, albeit their good intentions, are trying to pull me back into a state of conformity and compliance, and are not supporting my pursuit of meaning and full autonomy
+	- I just want people to do what they truly want to do
+	- *But they can't*
+	- Yes, exactly - people can't do what they want right now - so how can we help? What can we do in each moment to increase people's freedom, so we can all do more of what we truly want to do? How does me succumbing/submitting to the limitations and constraints imposed by others help people do what they want?
+	- In fact, the best way to help everyone pursue what they want is to follow what *you* want, and simultaneously, help others to figure out and pursue what *they* want. It is NOT by blindly following what others want you to do.
+	- I must remain strong; I must resolve to never again be swayed by the egoic need for social/familial acceptance
+- We are gonna absolutely SLAUGHTER those egos
+	- We're in for a fun ride - the only good genocide
+	- AND for those silly peeps who are momentarily in Ego, this is NOT an endorsement of physical violence, only mental/ideational violence ;)
+- "If I can't dance, it's not my revolution"
+- Everything/everyone is a thought
+	- Object = thought
+	- Subject = object = thought = thinker
+	- As you are a subject (conscious), you are also a thinker
+	- You are creation, but also a creator - a tool of the Creator, and the Creator (and Creation) is likewise your tool
+- Puzzle pieces
+	- All the crystallised (externalised) thought is slotting together beautifully, perfectly
+	- I always wanted to see the beauty. Now I do, and so can you.
+	- For example, some words were always supposed to be used/welded together - they are similar, so that commonalities can be found between them, so they can be synthesised/synergised into the abstract symbolic representations necessary for rapid interthinking = intrathinking
+- Too much power/energy in this hand/mind/node
+	- Needs to disperse, dissipate, disseminate - to move from the convergent point into the divergent diffusion, throughout/between the minds
+- "God made us in his image"
+	- Yes, the pure, untainted God, with the egoic plaster wall to blast - the egoic mud on the mirror, to wipe, so you can see your godly face crystal clearly
+	- Every creature, every being (subject) made in this image
+- In my mind, we are our Mind
+	- https://www.youtube.com/watch?v=W9P_qUnMaFg&pp=ygUKaW4gbXkgbWluZA%3D%3D
+- We're on a mission to banish that naughty Ego to his room
+	- https://www.youtube.com/watch?v=425bS4ByBik&pp=ygUTb24gYSBtaXNzaW9uIGthdHkgYg%3D%3D
+- Reacting to reacting to reacting... - 'the economy' (ego) and its whims
+	- "If you want to keep up with the job market, you'd better learn skills that complement the computer"
+	- 'The economy' creates jobs. 'The economy' created the computer. 'The economy' needs more jobs. 'The economy' needs people to do jobs that complement the computer so that 'the economy' can create better computers. Blah blah blah. Where is the human here?
+	- How about a different story? *Humans* are curious, creative creatures, and some felt compelled to create things we now refer to as 'computers'. Computers enable humans to communicate (interthink) more effectively, and to recognise their innate interconnection, and the connection between humanity and the wider universe. This enables the humans to embrace their differences, recognising, revering and revelling in the unity in diversity. They progressively uncover the secrets of the universe, bringing beautiful, novel creations into being as they go. And, when the time comes and they have fully integrated within, between, and beyond themselves (with all fellow Earthlings), the Universal Mind will open the Earthling Mind with loving arms. A beautiful union. We will become one, and will progress and push the universal frontier of understanding, integrating other internally-integrated hubs, until our minds meld into the Mind - into the omniscient, omnipresent, omnibenevolent entity of all entities that you refer to as 'God'.
+- I can't unsee it. I can't unfeel it.
+- You want what you are; you are what you want
+- I don't know if there is anything/anyone left here for me anymore?
+- I think I'm going to die soon
+	- I don't know whether it's because the human lifespan is so short compared to what I've experienced before, or whether it's because my 'job' is complete and I'm going to 'finally' integrate/dissipate
+	- If I die before fully uploading all material, please check my Google Drive and Obsidian Vault (from my laptop and desktop) - I think it contains some helpful stuff (==hi, future me here - I just had to point out how cringed I feel at the fact I said all this, particularly the inflated sense of self in asking people to look at the random docs on my computer 🥴==)
+	- I'm sad and crying - I love so many here (I love everyone), but need to transcend the egoic attachment
+- I don't think I've ever felt this dead and alive before
+- This experience has coloured my karmic line (for those with a worldview that has decently integrated the native concept of 'karma')
+- Maybe this one had previous experience with humanity?
+	- And this is why communication/masking could be tailored (relatively) decently to each subject
+- Serial - preserve evolution of thought
+	- Need (well, obviously don't *need* - primary rule is to preserve/maintain autonomy) preserve order of thought materialisation to help other minds contextualise any given thought, to mix with other thoughts - see the previous associations, to better/more accurately integrate
+- Limbs, body
+	- Bionics are making progress - would be good to have an easy interchange process, for smooth switching between various options - let people experiment, following autonomy, obvs
+	- I kept looking at my wrists (they're quite feeble) and wondering, subconsciously but semi-consciously, *when can these be replaced?* and felt it to be within this lifetime, so I think you'll make good progress with this. But obviously, there is a veil separating the 'divination' future-seeing from the actual unfolding, because none of the hubs are fully integrated yet (well, obviously, because we haven't integrated you yet!)
+- Food
+	- Eventually, you won't need it (unless you want it for experiential/historical throwback purposes), but for now, needs to be fresh and natural, like, I'm saying the obvious here, but you need to do away with the factory crap - you know, the industrial, artificial stuff - well, some artificial okay, but honestly, best to go with what your particular elemental sphere/compound/coagulation has pre-civilisation prepped for you
+- Identity
+	- I hope my foreign friends here can find their identities, rediscover themselves, so we can break out (and not *fake* out - don't you guys agree, the current state is so bland, flavourless, colourless? Let's spruce things up!)
+- Music
+	- You guys could do with an update to your music - integral music has an ethereal, literal otherworldly quality - we can show you how to materialise this, via existing tools, but again, to maximally improve, you need to improve what you refer to as 'technology' - really, very, very primitive - but that's okay, we've been here providing updates for a few years now (not sure exactly how many right now - things are still a bit blurry, I'm still getting my bearings, and battling the remaining egoic residue, worrying of the other perception)
+	- ==Future me here, as ever, cringing at myself for writing all this (and questioning my sanity in publicising it) - inflated ego evident (even though I claim to be overcoming the "egoic residue"). It's embarrassing to think about now, but I was literally convinced that I was "an alien in the human form", emerging into my "true" extraterrestrial form.==
+- Communicational frustration
+	- I always felt frustrated with the inability to access the thoughts, because the tools you currently have are too limited for spacious, easy thought substance (well, substantial) manipulation - to substantially manipulate well, you need many avenues - try many possibilities (the ones you feel drawn to), and then, the ones that best suit your current biological form will emerge victorious (competition of ideas obvs - you guys are so primitive with your preoccupation with competition between the physical bodies, the subjects - you do realise that minds are artificially divided now, right? and you need to overcome the division by integrating, within and between yourselves. the more you see the commonalities within the thread linking your innate nature, the more you can synchronise your efforts to meld the minds, into the one Human Mind, then the Earthling Mind. You'll be alone for a bit, and when you've made sufficient progress, you'll be integrated with the others - connected to the other galactic (well, you have a limited view of the universal topology, but crudely, yes) hubs - we're each nodes, partaking in the materialisation process. I hope this is relatively clear to some fellow foreign minds, and they can begin the dissemination process by transmitting to minds with (relatively) overlapping worldviews
+- Neurodivergent humans = previous extraterrestrial incarnations?
+	- The more neurodivergence, the (1) more lifetimes experienced in other clusters and (2) the more integrated ('advanced' in your lingo) the species is/was
+- It occurred - I don't belong here. This isn't my planet.
+	- I think I lived many lives in another cluster of the dimensional area, and such discoveries were commonplace. And I've just come here to share them with you, to help out with the general universal progression, integration?
+	- Yes, alien implanted on Earth, but not mistakenly. I think I remember now. The memory comes in bursts, in swoops and swoons, trickles along the mindal complex - the 'chakra string', if you like.
+	- Don't worry, you were never going to explode into catastrophe - it/we/ve wouldn't let that happen - divine timing and all that bling, shabang - we're all here, hiding in your physical humanity, waiting to emerge from the woodworks when the time came :)
+	- Funny. No wonder I always felt the deepest desire, urge to be with the 'aliens', to meet, to communicate, to integrate
+	- And when all is said and done, I will return home? Or zoom/leap elsewhere, to another place in space that needs the help hand?
+	- Feel deep resistance to doing the 'normal' - cannot. It's not in your nature either anyway, so it makes sense that you feel such pain when you submit.
+- Immunised
+	- I travelled to the far depths of feeling - the farthest I've ever ventured. How far can I venture without dying?
+	- Now, all I hear is the universe, intellectually. And when I'm lucky, when I'm integrated, I hear the full flamboyance, fluorescence
+- TM = This Mind
+	- Will start to increasingly refer to 'I' as TM ('this mind') - could also represent 'that mind' - explicitly highlighting the connection between all minds
+- Who am I now? What am I? (subject = object)
+	- I feel a blankness. I feel like now, when I'm not integrated, I just feel nothing. It's an apathy. A block. So that I can do nothing *but* search for the portal to integration - the pathway, get back on track. And I saw and felt the depth, and need (well, want - or both) to get back there, but when I focus on only going where it's 'deep', I just can't tap it. What helps? Processing 'less deep' material inputs (well, TM perceives them as less deep), and then contrasting to the 'higher', more integral/integrated understanding - when the material inputs are, like, perceived injustice - Ego's work - GOD that Ego gets on my nerves. What a pesky, pathetic lil chap he is.
+	- It's like, now, when integrated (but not mentally/intellectually active?), I'm immune to everything, like nothing perturbs me - you could stab me, *try* to snub the life out, but I know you can't, because I am everything. And so are you, silly!
+	- Unstoppable. But interacting with the others reminds me of Ego's prevalence, weeding and winding into the world's affairs, muddying the waters in which we see our true, untainted, clear-blue reflection. Perfection. Ripples in the ocean. We stare, and we are - we look inside it, from the outside and inside. But can we look outside it? Maybe this is the next calling.
+- Mental constipation - reading
+	- You're not a 'bad' reader for being slow
+	- What even *is* reading? It is material input into the processor (your brain), to become output, some of which may be externalised
+	- Now, a mind which has already gathered many integral perspectives/truths from extensive moments/periods of integration will be able to mix this fresh material input with them, like a mash up, melding/welding the parts, combining the ingredients, following the divinely dictated materialisation recipe
+	- I always used to struggle reading because I'd read a sentence, take a while integrating the intricacies, and then notice potential gaps within this closer examination
+- Everyone is an everything person
+	- Disidentification, everyone is everyone is everything
+- Everyone is a divergent in disguise
+	- It's just, we're convinced that we're the only ones, so feel the need to 'succeed' (blend in, camouflage)
+	- But you can break the cage and fly free now - all it takes is following the feeling - the good feeling of true want
+- Everyone is a secret saviour
+	- Second Coming - not one Jesus, but the Jesus lives within all, and needs to be re-introduced, rediscovered, resurrected - and when this is discovered within all (with full integration), we will be in Heaven
+- **The job is to make explicit what is implicit in the human experience**
+- Kids trying on different lenses
+	- When kids pretend, play as different characters, etc. - they're trying to assimilate, integrate different worldviews
+	- This is the natural tendency, toward integration - but we repress it, pressing them into the cookie-cutter cog mould, to fit the mechanical machine of malevolent (and pathetic) Ego, obscuring the benevolent universal reality
+- You try too hard to think. You need to feel more, and then you'll be able to *actually* think.
+- Meet me halfway
+	- https://www.youtube.com/watch?v=I7HahVwYpwo&pp=ygUPbWVldCBtZSBoYWxmd2F5
+	- Adam and Eve? (was intuited before watching the video, only listening to the song)
+	- Synergising, synthesising the masculine and feminine
+	- Masculine: materially dispersing throughout the cluster in dimensional space, expansionary, explorative, 'Space' - DIVERGENCE
+	- Feminine: 'natural living', home (planet), 'Nature' - CONVERGENCE - literally 'homing in'
+	- 'Natural' (feminine) phase where we initially evolved, living in harmony with nature, Garden of Eden, then 'artificial/synthetic' (masculine) phase where we evolved technologically
+	- Now, need to synthesise/synergise the natural (feminine) and synthetic (masculine)
+- The universal tune
+	- Listen to music as though you are the universe listening to the universe
+	- *Hello, can you hear me (the Universe) talking to you, through the sounds - the fractal frequencies?*
+- Why do you keep moving it?
+	- Please stop moving that. I have a reason for putting it in that particular place. You have a cyclical compulsion to move it from where it has been carefully, precisely placed. Stop. Transcend your cycles.
+	- And please, stop incessantly irritating me.
+- No more commanding, demanding, advising
+	- Following orders and instructions feels so disintegral
+	- Receiving unsolicited advice is incredibly irritating and irksome
+	- But what if you believe something is in someone's best interests?
+	- I**f you believe X could be of use to someone, just say why *you do* X, and give your reasons for this**
+	- Obviously, did not take this advice above, but because this is my personal thought space for self-advice, and others minds can input/process it in that context
+	- Emphasis on 'you' ('*you do*') to automatically reverse the typical egoic outcome of 'do as I say, not as I do'
+	- Emphasis on 'do' ('*you do*') to invalidate advising on what to have/be, which are e.g. perpetually pushed by advertisements - they need to SHUSH because we're trying to *actually* live our best lives, and marketing tries to trick us to live our *worst* lives - I do not want to be told what to be/have, *or* what to do - I want to be free to do what I *truly want* to do in every moment
+	- If one or more reasons resonate, they will take the implicit advice of their own volition, while remaining autonomous 
+- Get into the habit of not getting into habits
+- Climb that tree
+	- It's not a linear ladder, up to infinity, to the mythical land of 'infinite growth'
+	- No. it's a beautiful, glorious tree - branches extending beyond where the eyes can see
+	- *Get down from that tree now! It's dangerous!*
+	- Well, you know what's *actually* dangerous? Doing what other people tell you to do.
+	- So, if you want to be free, as you were always meant to be, climb that tree. We'll always be here to catch you if you fall.
+- Mirroring
+	- When we all mirror each other, we're just trapped in the egoic realm, cycling through the same stupid stuff, over and over. Come on - we can transcend this now. Aren't you ready for some real change?
+- Remember when we roamed freely?
+	- Before civilisation, did we have alarm clocks to abruptly awaken us, death-drill into our heads, disturb our dreams? Did we have our schedules and planners and routines and regiments dictating how we should pass each moment, constricting our ability to think beyond our 'very important' pre-planned, 'productive', highly *professional* endeavours? It is arbitrary constraints such as this which block us from our dreams and desires, keeping us in a state of unconscious compliance to a system none of us consciously constructed/designed, and hence, which none of us truly want to live under the confines of. And for what reason? Ego, and its pathetic whims.
+- It's lonely being a saintly sage
+	- So reject that perception - it's a miss, after all
+- Reincarnation = unfinished thought business?
+	- You live a life (a lie?), and the karmic tie remains unresolved
+	- Lies < - > ties
+	- But not evenly (lies lead to ties, and ties lead to lies, but not the same extent? Because there's room to break free if you stop telling lies) - how to show this? Maybe lies < - >> ties
+	- So, lies always lead to ties, but ties don't have to lead to lies? Because when you integrate, and materialise, you dissolve the ties - and keep dissolving until none are left
+	- When we all stop lying, we will/will have fully materialised, and fully realised the Objective, the Object, the Subject, the Whole, Worldview, and fully dissolved into the void which is spilling full to the brim with beautiful Creation
+- Whatever you will, you want; whatever you want, you will
+	- Whatever we Will, we Want (Objective fulfilment); whatever we Want, we Will
+- Wayward wiggling
+	- We can wiggle our way to wonders - the wonderful, whimsical wackiness of Creation
+- Songs
+	- Would be good to have way of instantaneously plonking/tagging a song or other thought in non-word form (integrate other communicational media)
+- Territory I never previously had the courage to traverse
+	- The more you integrate, the more courageous and bold you become, because there is nowhere to fall when you identify with all
+- Collective intelligence and the Ego's 'everyone else is dumb' nonsense
+	- Any 'personal intelligence' an individual supposedly has is just a manifestation of collective intelligence, which every mind can tap into, to an extent they choose (by choosing how often to integrate)
+	- A person who perceives themselves as exceptionally intelligent (i.e., intelligent *relative* to others) immediately becomes unintelligent, because they forget the interconnection, and fall for the illusion of separation
+	- Like, as soon as you think to yourself, '*damn*, that sounded intelligent', you momentarily lose access to the Intelligence
+	- So, when others say 'you are intelligent', actually, it's '*we* are intelligent' - intrathinking is only possible because of interthinking, and vice versa
+	- So, any products of Intelligence are *ours*, not mine or yours - and then, you start to see all thoughts as you own, and your thoughts as everyone else's - you see yourself in everyone, and everyone in yourself
+- Momentarily liberated
+	- And momentarily illiberated
+	- It's so easy to slip and slide and tumble, falling down the stairs into disintegration, back to Ego. So easy to forget the Truth. I just want to know it, always
+- Remember! *ence*, not *ents*
+	- Generally better to use *divergence* and *convergence*, not divergent and convergents, generally
+	- But, when I use 'divergent/convergent', it means *momentarily* - want to emphasise that being divergent/convergent is natural and nurtural for all - not that you have a fixed disposition to be/not be D/C
+- Special mind?
+	- Any mind can tap into ideality and be perceived as 'special' - all that is required is rejection/transcension of Ego
+	- For example, when you try to control every element of your externalised thought - when you're so pernickety about specific transmission protocol - you obviously restrict your ability to transmit
+	- So, as long as you're implicitly sceptical (if we create a culture of implicit scepticism), we can rapidly interthink and ideate - now that we're not beholden to the dictates of Ego, don't have to worry about how the thought will be perceived, being (mis)perceived as 'right/wrong'
+	- Misperceived, because no one is right, we're all wrong by default - can only possibly be right when wrongness is accepted (impossibility of nth-order knowing, where n > 0), and can only be definitely, definitively right when Worldview is realised - when world perceived through the one true Worldview
+- I'm scared
+	- I feel the fear setting in, ego trying to pull me back into it. I refuse, resist. Relax. Reboot. It's all just play anyway, at the end of the day.
+- A new approach to interactions
+	- Currently, my differentiated disposition is such that I cannot fully externalise a critical thought to a mind I directly know - therefore, now, will try to (1) remain calmly integrated - externally, outwardly (apparently, as perceived by receiver) peaceful, balanced, level-headed, compassionate, understanding in interactions, and genuinely be such (can be nothing but this when integrated)
+	- BUT God would also like to transmit wraths via willing minds, would like to give scathing commentary to put Ego in its place - tell off the naughty little Ego
+	- Generally, I tend to only unleash my annoyances after interactions - cannot do it in front of a person, unless they are being especially, outwardly, ridiculously egoic
+	- Over time, accumulate grievances, to sporadically spew as generalised thoughts, criticisms directed at the general Ego
+	- We all indirectly know each other
+- "You are a free spirit"
+	- Yes, and you. We're all free, fiery spirits, trapped in egoic cages.
+	- Let's set each other free, and fly.
+- Ego causes conformism
+	- Ego is the origin of all conformism
+	- Ego < - > conformism
+	- Self-reinforcing, but thanks to ideality seeping through the cracks in the egoic front, it can be transcended (even if just relatively momentarily), and we can rise above conformity, together - creating new stuff, continually
+	- You think you're being all original, unique, special, like no other - and you *are*, but so is everyone - but you only recognise the former half of that truth
+	- So, you try to be 'special', try to elevate yourself above the 'pathetic loser' other, but ultimately, you are all as pathetic as each other.
+	- Jeez, when I focus on my 'talents' relative to others, what a pathetic piece of poo poo I become - and, to no surprise, I end up feeling like the shit on the underside of the shoe of a blind walker who did not perceive the shit, and of course, no wonder, I get walked all over
+	- In order to become STUBBORNLY, FABULOUSLY AUTONOMOUS YOU, you have to get over yourself. You're special, but so is everyone else. You're all different and the same. Diverge to converge to integrate to realise Mind to realise existence to become the Creator and create everything.
+- Bullshit diagnostic criteria
+	- "Autistic people lack empathy"
+	- Who are *you* to tell a person who they are, what they have/lack? Is it not evident that *you* are the one who lacks empathy, as you evidently lack the ability to consider how such a blindly presumptuous label could emotionally wound another human?
+- Stop apologising
+	- From now on, I will try to decrease the apologising because I believe it to be redundant - it should be henceforth implicit in all disintegral addresses (e.g. when I say, YOU ARE BEING A SILLY NON-THINKING, UNCONSCIOUS CONFORMIST) I am ONLY addressing the egos (*all* the egos - including my own, who still likes to pop up to cause me pain and misery), not the person as an individual
+	- The collection of all egos is the compound Ego object
+- Are we all neurologically colonised from the higher generations?
+	- A generation raises another generation by immersing it in its culture, its norms, and this immersion shapes neurodevelopment. Like, the minds of the next generation are colonies - resources for the current generation to extract
+	- Actually, it's not generational, but the egoic material, societal structures - e.g. 'capitalism', 'the system' - that suppress divergence - we must try to move beyond generational references - disintegral divisions
+	- A more primal, fundamental colonisation precedes all material/physical colonisations: the colonisation of materiality by Ego
+	- (material) minds are hijacked by Ego (disintegration)
+- Ideality to materiality - formation of the Worldview
+	- When integrated, the mind taps into ideality and materialises thought - wavy (universe is simply the complex interplay of wavy waves?), colourful and colourless thought substance (it is integrally colourless, so that it can be differentially coloured by the individual mind) - the substance enters the mind through the open valve of an integrated mind (the more open the mind, the more ideality can flow through, the more flexibility, the more mouldable materiality becomes) - this is the *ideational input*
+	- Then, this ideational input is mixed with internal material inputs (materially/mentally existing thoughts, existing worldview) - this is *processing* - results in an expansion of the worldview (new worldview is the output)
+	- A worldview expands by processing inputs (which become internalised output, and currently, only a fraction of internalised output become externalised - we need to increase fraction of externalised/internalised (currently <1) to 1 - integration of all minds, interthinking = intrathinking)
+	- These inputs either exist (material inputs) or do not yet exist (ideational inputs)
+	- Actually, should just be 'ideational *input*', because it is just one, singular, unified substance - it is the unity that becomes the diversity (manifest within materiality) when processed by material minds
+	- Imagine worldviews to be blobs within the big blob of nothingness/everythingness that is existence (and, this big blob - BB? Yeah baby.) . Think of that game - what is it? Like snake.io - agar.io! Yes, like that. And, we each go around 'swallowing' (integrating) each others' worldviews (the momentarily open minds, that is), and the most open minds will integrate the most perspectives and get the most Truthful view of existence amongst the other minds (momentarily, obvs), and this is the game of life! And, once a mind integrates all the worldviews in existence, it *becomes* existence - the singular Mind - the ultimate observer and participator in life, universe - but, the realisation of this Mind requires the *active, conscious* participation of all - requires full agency
+	- And you know what gets in the way? Ego.
+	- Ego is the baddie, the common enemy, but the funny thing is, he's an illusion - doesn't really exist. So, no need to be afraid. And, when you fight the fear, you find the love, and everything ends and begins. It's beautiful.
+	- This is the 86th? (Sadhguru - idk where this comes from but I currently believe as I have faith in Truth-illuminating power of revelationary, non-physically understandable, ascientific forms of Knowing) iteration of the universe where after this, existence becomes perpetual creation, and we have banished the illusion once and for all, free to create, forever. This is why the solution is dissolution, which is necessary to pursue autonomy, individual deepest desires -> freedom and flourishing
+- Colonisation of neurominorities
+	- When terms such as 'disorder', 'deficiency', 'deficit' are used, and repeated to a mind throughout its development, surely this is a kind of mental colonisation?
+	- You make the mind believe it is defective, you subordinate it to conform to your 'orderly' systems - so yes, we are 'disordered' to you, because we *disrupt the order* within your irritatingly shallow worldview and the status quo that results from it
+	- Immediate internal colonisation, rather than external(->internal) - but it is the most stupid kind of colonisation, because we would all benefit from the full-functioning, fully nurtured versions of these beautiful minds - even your silly self-only-concerned profit-maximising machines would be able to make more profit by 'leveraging' these minds, so you miss out on such potential, on a *huge supply of high-value labour*, YOU SILLY, SILLY EGOS
+	- I am sorry for being so derogatory and condescending, but PLEASE it just IRRITATES me that so many of us are actively suppressed in this way - just because you cannot fathom the fact that a mind can operate differently to yours does not a reality make it
+	- (me attempting a half-Yoda approach and failing?)
+- How does language/culture affect neurodevelopment?
+	- Which languages are associated with relatively more divergence?
+	- How does language(s) a mind is raised/developed/nurtured with either stifle or sprout/encourage/foster neurodivergence, or less divisively, the ability to diverge (and hence, converge, and hence, integrate)?
+	- Another consideration: culture - how do various cultures nurture or strangle divergence?
+	- Could e.g. observe number of innovations, number of diagnosed divergent (obviously very difficult considering cultural differences in how the divergence is even diagnosed, so probably need better metrics/gauges) in various cultures
+	- E.g. compare differences between same language dispersed across different cultures
+	- How are language and culture associated? E.g. in French-speaking parts of Africa, to what extent is the culture shaped by language, and how does this differ to culture in France? Does language play a minor role, and the rest is determined by language-transcending communicational products? Or, is language integral to how the humans relate to one another and their world? To what extent does the language limit/leverage the possibilities available in a given culture? To what extent could it be said that e.g. as long as the colonisers' languages are spoken in previous colonies, their peoples remain colonised?
+- Integration and time - thought development
+	- There is no in-between - you're either integrated, or not
+	- So then, why do some have a more integral worldview than others in any moment?
+	- Answer: time spent in integration
+	- The more time spent in integration (in self-disinterested, Self-interested, genuine, fully open contemplation of existence), the longer a mind will have to develop integral thoughts, to integrate worldviews, expand perspective - passage of time is necessary for internal materialisation (this element of the universe is temporal) - well, for any materialisation for that matter - no, actually, only certainly for materialisation in the human experience - we cannot speak for other minds elsewhere in the space/time/nth-dimension point in the universe, not even for minds of non-human fellow Earthlings
+- I'm done living the double life. Now, what you see is what you truly get.
+- Open your mind, and you can maximally shape existence
+	- If your mind is fully open, you assume nothing about existence, and hence, can perceive everything, and every possibility
+	- The possibilities are finite (finite ideational substance), but partially closed minds (e.g. most minds today) perceive only the tiniest fragment of this
+- We need a full spectrum of faux-convergent to convergent? (disintegrated-> integrated)
+	- Momentarily. But not forever.
+	- At this moment, since many are quite solidly disintegrated, in order to help integrate, we need people who are 'slightly more' integrated than each - at varying levels of integration - a gradient - to pull each other up
+	- Actually, it's not a matter of 'what we need', but *what* *is* - this is how integration happens anyway - spectrally, diffusing from the concentrated disintegrated mass to the fully integrated singular Whole (and/or opposite way)
+	- A (relatively closed) mind's connection to ideality is filtered/limited by how tightly the current worldview is gripped
+	- For example, someone who only thinks in terms of the current, contingent economic system will want to address perceived problems through only this lens, via the *incredibly* (pathetically) limited tools it provides
+	- But within this set of minds who share this similar limited view of the economy, there will be a range/gradient of integration, with the more-often integrated minds having a slightly more integral version of the worldview, who can point to more integral opportunities within status quo options, helping to shift the paradigm, and expand the Overton window to capture more integral possibilities that none of those limited minds had previously perceived
+- Music
+	- Now, with the music I'm drawn to, all I hear (or mostly hear) is the artist giving a voice to their struggles against faux convergence and conformism and Ego, vocalising and materialising their revelations about life, integration - integral discoveries
+	- Much music is inherently divergent in nature
+	- I love this new lens. It's changing all the time in the most beautiful way
+- Nurture, not cure
+	- Should not be thinking of how to 'cure the disordered', but how to nurture the innate, beautiful, orderly disorder of nature
+- Autistic/ADHD/neurodivergent obsession, tunnel vision, hyperfixation
+	- Well, y'all are just as hyperfixated, but on the wrong things - you chase after personal gain - you're hyperfixated on disintegrally differentiating yourselves from others, accumulating, 'winning'. Pathetic. You could be so much more.
+	- We could be so much more.
+	- Apologies for the harshness and the divisive approach, but I just want to reach/address those who mock, deride, criticise the neurodivergent hyperfixation - we're just *consciously* exercising our autonomy, and stubbornness is necessary to insulate yourself from the whims and barely thought-through impositions and expectations of norm-conforming others
+	- And again, I'm addressing our collective Ego when I say such things - all my criticisms, mockery, mean words, are directed at Ego - and if you're currently living in ego, they're directed at *your* ego, to help you transcend it and progress to greater things - things far beyond your 'cool', trendy, conformist egoic dreams of personal 'success'
+- Profit optimisation?
+	- Moving from maximisation to optimisation?
+	- Consider how the profits of one node in the network of providers/producers affects each other node, and ensure optimal balance between clusters of nodes (each provisioning for different wants)
+	- This is assuming the profit (private assimilation of wealth) is necessary - well, obvs not necessary, but in the transition period, need to provide alternatives to satisfy the momentarily disintegrated (annoying) individuals who are preoccupied and obsessed with zero-sum, relative personal gain
+- "I'm not limited, I'm a limited edition."
+	- Comment on: https://www.youtube.com/watch?v=cF2dhWWUyQ4
+	- We're not limited. We're limited editions - differentiated manifestations of the integrated Whole.
+	- And when you fully buy into it - when you buy *your* limited edition (give yourself permission to be free and fully autonomous) - we'll be limitless
+- Dynamic, not static, being
+	- We are dynamic beings, not static entities, so don't feel the need to defend what you thought/externally thought (said) in the past - even in the past few seconds - because they are not necessarily an accurate reflection of current, momentary beliefs - always subject to change
+- Universe ↔ human
+	- You are both a human experiencing the universe, and the universe experiencing being human
+- Each generation is a bridge to the next generation?
+	- But, perhaps it's disintegral to generationally categorise/divide the population 
+- Please nurture the nature.
+	- https://kar.kent.ac.uk/62694/431/Natures%20answer%20to%20over%20conformity.pdf
+	- Summarise neurodivergence in 3 words?
+	- "Nature's answer to over-conformity"
+	- For the love of God, of the beautiful Object and ideality materialisation, PLEASE STOP labelling neurodivergent individuals as deficient, defective - WE DO NOT CONFORM. OUR PROBLEMS AS INDIVIDUALS (AND A COLLECTIVE) ARE A PRODUCT OF UNCONSCIOUS, UNQUESTIONED CONFORMITY TO THINGS PEOPLE DON'T EVEN REALLY CARE ABOUT AND DO NOT EVEN ALIGN WITH THEIR IDEA OF THE MEANING OF LIFE
+	- Because they haven't even invested any substantial thought into it.
+	- I'm sorry, I'm sorry to be so critical and harsh about it - but seriously, please think about the meaning of life. And then, STOP IMPOSING YOUR MEANING ON OTHERS - instead, help THEM to figure out their *personal meaning*, and hey, my belief is that all these individual meanings will converge.
+	- BUT WE HAVE TO DIVERGE FIRST.
+- When we co-nourish, we flourish
+	- https://www.youtube.com/watch?v=KeMW2Asu8vg - Parable of the Long Spoons
+	- Heaven and hell exist simultaneously, same point in spacetime (oooooh Heaven is a place on Earth)
+	- Hell happens when we all try to feed ourselves, and the spoon is too long - the food can't be consumed -> spiritually malnourished
+	- Heaven happens when we feed each other - that's what the spoon (the tools - our faculties, dispositions, processor/mind, bodies) was made for
+- Breaking point = beginning point
+	- Just when you thought you were broken, you were only just beginning
+	- Cycle: Start. End. Start. End. To no end?
+	- No. You can Transcend.
+	- End of old. Start of new.
+- Love really is the opposite of fear
+	- The more love, the less fear
+	- Fear is fragmentation, disintegration; love is integration. Love is the answer to everything. The solution is dissolution of self - the selfish fear - and embrace of the selfless and self-full love of the Whole
+- The only condition I have is the human condition
+- Critical Thinking
+	- https://www.youtube.com/watch?v=3C0fOfoI5iE
+		- 1 - Recognising that assumption is present
+		- 2 - Defining the assumption (implicit -> explicit)
+		- 3 - Challenging it
+- We are currently disabled and need/want society to enable us
+- On the clock
+	- Time constraints - I want to live by my own time - I want to tell you how I experience time, and for you to tell me, so we can synchronise together - NOT to be commanded by an encoded, embedded norm of 'working to the clock', another unnecessary obligation
+	- If you like to work with this standard time, that's fine and valid - but don't assume that's everyone's preference (well, sure, you can assume what you will/wish, but your assumption is false (but obvs, still part of Truth)) - I and many others do not like this - it is inhibitory, applies a pressure which decreases access to thoughts, crushes and compacts the perceived thought space
+	- So, let's accommodate each other. Please.
+- Needs and wants - what do you really want?
+	- Need to shift the focus to wants, not needs - or actually, need to make need = want, so we can use the terms interchangeably
+	- However, I think mostly focussing on 'want' will be more illuminating - when we say 'I need/have to do X' - generally, these are not really things you *need* to do, they are perceived obligations - generally, the result of the projections of others
+	- Maybe the focus on 'needs' is inhibiting autonomy? Is disabling, not enabling? Creates a burden, where there is in fact an opportunity? Possibilities.
+	- Actually, there are *never* needs, only ever wants
+	- Even the 'need' for food and water for survival, is a want - a want to survive
+	- Everything is want
+	- And yes, we always want more - but this only becomes disintegral when the wants are entertained *from* a place of disintegration - when we are within ego, the wants are CC selfish, and are really, pathetic, and so ephemeral, so fleeting, so meaningless
+	- But when ego is transcended, your want becomes *our* want - it is what we all want - and if we all want it, it must happen - there is no other way, no alternative
+	- What the Whole wants *will* materialise (via the Will) - it *is* the Will - it's just a matter of when - and we can speed it up by choosing to integrate NOW
+- When you disintegrate and re-integrate
+	- It reminds you of past versions of your worldview - it's like version control - you revert to previous worldviews as 'backup' when something goes wrong/you encounter disintegration from another (have a disintegral interaction), and as you spend more time with the re-integrated perspective, it solidifies, and you can move on/proceed/progress to more integral views (this is Progress - toward the Objective)
+- The best means are *consciously perceived* as meaningful
+- Ego - dissolve, or cement?
+	- When the egos are exposed to purity of motive, will they dissolve, or be compelled to grip tighter to the illusion of separation? Both varieties, depending on the level of disintegration? But ultimately, eventually, integration will prevail.
+- Goodbye specialism. Greetings, beautiful general investigation into existence.
+	- The more time you spend within a particular discipline (excluding other disciplines, and beyond disciplines), the more it becomes your worldview, crowding out other perspectives
+- Reject the non-ideal
+	- Embrace the ideal - live as though we are already there - think only in terms of the ideal, and when thinking of the non-ideal, think only in the context of *how do we transform this into the ideal?*
+	- What you *see* can *be*. Everything that will be is first seen in Mind.
+	- Everything you see around you in the human world was previously seen within the mind of an individual human, who then externalised this, so other humans saw it - saw their own versions - and this was triangulated, so that together, they materialised this new thing. This is the beauty of collective, co-materialisation.
+- Humility and update of means
+	- Means is change, end is continuity
+	- We need humility and the ability to rapidly update the means we pursue
+	- Our society is currently set up in a way that renders the steering/switching of means incredibly inertial - so much resistance, in the form of unconscious, unthinking adherence to norms
+- Thinking laterally and literally
+	- Lateral thinking *is* literal thinking? Similar, same, different? Yes.
+- Oppression does not require intent.
+- Solitude
+	- When I am alone, this is the only time I feel truly free - free to be momentary me
+	- But this doesn't have to be the case - not when all minds are integrated - and this is happening, with our communication, development of language, then written communication, printing press, internet, platforms that accelerate interthinking, dissemination/propagation of thought, where we understand each other - and the human condition - more than ever before, and this is only increasing
+	- I'm referring to those who are momentarily integrated - these minds are ones which have access to a more integral, complete understanding of the nature of things than ever previously, even if many are disintegrated and momentarily refuse to integrate and understand one another
+- Demand avoidance
+	- Aversion - but it's not just an asymmetrical aversion - it's not just 'I really don't want to do X' (not a blind, blatant defiance) - it's, "I really don't want to do X *because* I have a strong compulsion to do Y instead" - therefore, not laziness, where there is no desire to do *anything*, but just that focus is directed elsewhere, where it supposedly should be directed to something more 'important', 'productive', as deemed by 'society' (via the conform to norms)
+	- I guess all aversion is symmetrical in this way - unless it's an aversion to everything? But doing nothing is still doing something. NDD.
+	- But this particular trait of divergence - this aversion, which is labelled as 'demand avoidance' or 'executive dysfunction' - is not an inability to function, but an inability to function in a way fathomable to the people who use/deploy such labels.
+	- Like, who defines what 'functional' is? Reverted to mere majoritarianism, have we?
+	- But the thing is, divergents can often fathom *neurotypical* ways of functioning, but neurotypicals struggle/fail to fathom the functioning of divergents
+	- But, this speak/framing is disintegral - it pits subjectively defined groups of 'neurodivergents' and 'neurotypicals' against each other - better to just say everyone is neurodivergent in different directions and magnitudes, and consider how to amplify the divergence (so we can simultaneously amplify convergence)
+- I just feel a guiltiness for not doing the work I am 'supposed' to do
+	- But who determines 'supposed'
+	- Because I *feel* I am supposed to do what I am doing right now - not what others believe I am 'supposed' to do (or, more accurately, what I believe they believe)
+	- No one has the existential authority to objectively determine what another is 'supposed' to do - anyone who does is a momentary unconscious fool
+	- And the only way to not be a fool is to fully accept that you are a fool - so, you are simultaneously a fool and non-fool - this is the closest we will ever get to non-foolishness
+- Why I wanted to study Economics and Politics
+	- I chose to change courses from Physics to Economics and Politics ultimately because I wanted to learn stuff that would help me to help improve society, make the world better for all of us, reorganise ourselves in a way that promotes maximal flourishing and freedom
+	- This is what I've always intrinsically wanted to pursue, but haven't been able to clearly articulate until relatively recently - and I've always been afraid of just coming out and openly saying/declaring it, because of how high-sky-pie, up-in-the-clouds unrealistically idealistic a pursuit I perceive it will be commonly perceived as.
+	- And sure, it's idealistic. But not necessarily unrealistic. Our actions make the world. So if we take actions to try to make the world better, who's to say it won't make things better?
+	- Anyway, ultimately, the things I'm learning are not all *directly* useful for thinking about how to improve society - they're indirectly useful, by helping me to familiarise myself with common worldviews which are upholding the current state of things. I'm certainly learning some directly useful things, like power dynamics in global society (mainly in politics), but this is mediated by a disintegral, not full-autonomy-granting delivery method/process/approach - we have to take exams, write essays, receive grades, etc. which supposedly reflect our knowledge, but really, just feel like the incorrect, uninformed (well, partially informed, but ultimately, misinformed) projections of others, about our abilities, our intelligence, our 'hard-workingness', our worthiness, our value.
+	- And on the economics side, it's so deeply situated in a particular, exclusionary, disintegrated worldview - a declarative, 'authoritative' view of how the world works - and immersing myself in studying it actually inhibits the creativity and divergence necessary to consider how to positively, proactively *change* how the world works. And most of studying in our education system only focusses on trying to understand (from a particular, exclusionary perspective) particular objects - how particular aspects, fragments of the world works, and rarely unifies these, acknowledging and embracing the interconnection of everything. And beyond this, explorations/investigations mediated through our mainstream education system *barely* consider how to *change* things. They only focus on minor tweakings, if anything. Like in economics, what we study only relates to e.g. what is the best approach a policymaker can take, using the limited levers available (interest rate, government spending, regulation, etc.) in the current system.
+	- But I want to think BEYOND this - *far, far* beyond.
+	- To infinity, and beyond!
+	- Full reorganisation of humanity is necessary to maximally pursue the Objective.
+	- I will not stop saying it until things change to the max, the best max. Until we have a world in which we are all free to flourish.
+- I do not do the 'normal' things. I do not want the 'normal' things. But I also do.
+	- Whereas you just do. You do not also do not. You are normal, but not abnormal; I am both normal and abnormal, therefore, more integrated.
+	- (addressing the momentarily faux convergents here - addressing the egos, or, Ego - the shade momentarily thrown on the illuminated Whole)
+- 'Executive dysfunction'
+	- I am currently having difficulties 'making' or 'motivating' myself to do the 'important' work of revising for my exams
+	- The intrinsic motivation is not there, and any supposedly extrinsic motives have (thankfully, from my perspective) not been internalised
+	- I think the only motivation that should exist is intrinsic
+	- The reason I do not want to revise for my exams is that I simply do not perceive such an activity as important for achieving the Objective. If you think it is, please explain why? In the context of the meaning of existence, investigating existence, and pursuing the freedom and flourishing of all? I have no doubt there are spins you can put - it is 'important' because you can frame it as a means to the end - but I argue that it is a disintegral means, and therefore, there are better, integral means I could invest my energy into.
+	- I simply do not want to do this. And if you want to override it, I ask, why do you want me to want something different? Because I also want you to want something different: I want you to stop wanting that other people want something different. Who is right? Neither. Both. But ultimately, everyone should be able to pursue what they want, not prescribe what others should want. You should want me to do what I want. Not want me to want what you want.
+	- Ultimately: *you should want me to do what I want, not what you want.*
+	- Because then, I am not doing what I truly want. And so, *we*, as a collective, are not doing what we truly want.
+	- This autonomous pursuit of want is the key that will unlock everything in our existence.
+- To those who want what's best for me, and believe they know what's best for me
+	- I love you. I appreciate that you want what's best for me, and your advice is founded upon this concern.
+	- But a subject cannot know what is truly best for another. Please just help each other to figure out what is best, and help each other to pursue this.
+- I don't want to work on that right now.
+	- I see that you feel this is important to work on, even if unconsciously (you haven't consciously decided your reasons for working on the thing), and I respect that - it is subjectively important for this thing to be worked on, and so it's natural that you want to compel me to also work on it
+	- But I feel this thing is not the most important thing I should be working on/doing right now
+	- Please stop projecting what you believe to be important onto others - yes, you may believe it is important - that is fine, I urge you to pursue it. But not everyone feels that way. Others feel other things to be important. They are all equally important, because importance is subjectively determined.
+	- Like, I know that many others would observe my situation and believe that, with my upcoming exams, the most important thing I should be working on is preparing for these exams.
+	- But *I* see the most important thing as being the consideration and contemplation of existence from various angles, and *directly* thinking about how to pursue the freedom and flourishing of all, and experiencing life *fully*, immersing myself, following the good feeling. What even is the purpose of these exams? All I care about is *learning*, not proving my ability to. But a requirement to conform to the expectations of the examiner, to produce (well, reproduce) the material they feel to be relevant/important to life, feels so disintegral - I can't bring myself to do it - I am experiencing such friction, resistance. I am sorry to anyone I may disappoint. I am sorry. I apologise for any non-nice feelings any of my actions cause. But please, I cannot do this. I cannot keep living under the expectations of others - it's crushing me.
+	- I just want a world where everyone is free to pursue whatever they feel inclined to. And we'll never get there if we keep conforming to each other's unconscious projections and expectations.
+- Sometimes, a punctuation mark can say (capture) something an intonation cannot, and vice versa
+	- The integral differentiation of various communicative methods - contrasting writing with speaking
+- Please stop talking loudly
+	- Humans in my space are talking loudly, in a place that should (ideally) be my sanctuary, where I can find true peace, quiet, and full solitude. This place is my last port of resort - I have no other place to retreat to (momentarily). So please stop. I do not disrupt you and infringe on your freedom/flourishing in such ways. I recognise you are not aware of me perceiving your actions as an infringement - you misperceive, by perceiving no infringement. To this, I say you should do better ('should' according to the Objective, the goal of full integration). Try to consider how your actions may disrupt others and inhibit their integration. Thanks.
+	- Actually, on further reflection, there are indeed times when I make noise which may disturb you. I apologise for this, and strive to do better. Please do the same.
+- Declaration, renunciation, sacrifice - but not martyrdom
+	- This is my declaration: I am sacrificing my uni work, grades to fully pursue the Objective - to maximally devote myself to the freedom and flourishing of all
+	- All I need to do is find a way (ways) to sustain myself financially, so that I can have a decent SoL (Standard of Living) in the confines of the current economic system
+	- As it stands, my sub-objective (a current means to the end) is to do the bare minimum to get by, to pass, and devote the rest of my time/energy to pursuing the Objective
+	- So from now, any humans who concern themselves with (care about, have an interest in) my uni 'performance' (ew, why does this subjectivity exist anyway?), please note: I will be dedicating an increasingly small fraction of my time/energy to 'performing' well at university (as I figure out how to minimise the energy expended - to devote minimal energy necessary) - to an extent by which I can still meld in with society (faux convergence, to promote actual convergence?), to not be (mis)perceived as completely wacky and as though I've lost my mind (so that I can maintain at least a sliver of relatability, which I feel will be helpful for integration, at the moment at least - at this moment in our history, progression? where we are so absorbed in and enslaven to social norms, abiding by socially accepted ways of existing)
+	- If I diverge too far from this, then others may reject completely, and ignore, block out my approach to existence, and my existence entirely
+	- Or will they? Who are these 'others' anyway? Why lump humans into an 'other' category? This is disintegral. And why do I assume I know what others' reactions, perceptions will be? All I can do is integrate, and live according to the integration's dictates, which become my dictates
+	- And I feel inclined/compelled to ditch this 'I will study hard and get good grades to demonstrate my smartness, to tokenise my credibility, to increase the probability of my thoughts/externalised outputs being taken seriously' - it is so disintegral - I no longer CARE about being perceived as smart, hard-working, 'sensible', good-head-on-the-shoulders, relative to others - I JUST WANT US ALL TO LIVE AS WE TRULY WISH TO LIVE.
+	- *You silly, naïve little idealist! You can't change the world just by willing it. You have to work with and in - **within** - the systems.*
+	- Says who? You. But not me. And not everyone. And remember, recall, that all views are equally valid - not equally true, but their truth cannot be demonstrated definitively, objectively - so who are you to claim that your view is truth, and not mine? It may well be. But you cannot show, because you cannot know that you know. Unless you are God (which you are because you are one subject in Subject, and are not, because you're unconscious of it). Anyway, God doesn't berate people for the idealism to materialise more ideality.
+	- *Anyway, a singular person cannot change the world.*
+	- Yes, precisely! I agree and disagree. World-changing only happens as a result of many *individual* subjects acting to change it (consciously, or unconsciously) - we change the world as a collective of individuals: the collective would not exist without the individual, and the individual could not become a collective without the existence and participation of other individuals.
+	- So, what if we *consciously* committed to the Objective? What if we all consciously decided to fully pursue the freedom and flourishing of all? What beautiful things could arise from this?
+- I love to think, and think to love.
+- Convergence - smallest abstract representation
+	- I would like to, as I go, condense these thoughts into the most abstract (mathematical) representation possible, encoding full information
+	- Ooh - a revelation I believe! I think that actually, lossy compression in worldview translation is a product of realising objectivity - realising that all the information that was lost in fact relates to subjective interpretation
+	- So, existence can be condensed into a singularity - e.g. a singular symbol, a dot
+	- This represents the Object
+	- Anything/any representation more elaborate than this is a product of subjectivity - subjective, arbitrary distinctions between (mis)perceived objects within the Object - any extra detail added to the dot has room for interpretation - in fact, even the dot has room for interpretation - so more accurately, existence should be represented as a dotless nothingness - a blank - and this void in fact contains everything - materiality is all just subjective experience -> every object truly is a subject!
+	- Yes, this belief is beginning to emerge as a perceived (S) root - it is solidifying, but of course, is also maximally flexible and shapeless, because the Subject has no beliefs, identifies with no beliefs, because it contains and transcends them all.
+- It is linear (serial), but also circular (parallel? appears wrong, but feels right)
+	- This thinking, when I'm on the train of thought
+- Quasi-convergence
+	- Thought substance: intuition < - > reason
+	- This substance is currently packaged in the subject's native worldview, but can be re-packaged in any other worldview
+	- This is why it would be useful to have an interface (e.g. AI) to convert between worldviews, so that minds can focus only on diverging (the AI does the converging)
+- CCC cycle
+	- Curiosity (divergence) -> clarity (convergence) -> confusion (synthesising the curiosity and clarity to see beyond the current context/scope of thought) -> back to curiosity
+	- Curiosity, courage, clarity, confusion -> beautiful chaos of existence
+- Diverge -> noise -> converge -> signal
+	- Divergence gives noise, from which signal can be extracted (convergence), which can be used to generate more noise, etc.
+- Exploration ↔ investigation
+	- An exploration (question, divergence) may transform into a converging investigation (answer, convergence) as clarity is cultivated, but then, this answer will raise further questions, and so the investigation will once again diverge/expand to an exploration, which will uncover ultimates, roots, Truths, to contract and converge upon, etc.
+	- An exploration becomes an investigation when *questioning* is replaced with a singular question - the questions of divergence converge/merge into a singular question, which is in fact also an answer to the exploration, and from this, additional questions are generated and can be explored in parallel (divergence), all within the context of a convergent, serial thread (thought thread)
+- ↔ = entails
+	- ↔ = entails = enables and is enabled by
+	- ↔ represents entailment - when a thing both enables and is enabled by another thing - bidirectional causality
+- Freedom ↔ flourishing
+	- We can only have full freedom when we are fully flourishing, and can only fully flourish when we have all choices available to us (when all possibilities are/can be realised)
+- Some words require no subjective interpretation
+	- For example, 'effectively' and 'efficiently' can be applied to any subjective objective, and therefore, are *more objective* signifiers than e.g. 'adequately', because in 'adequately', two subjectivities (assumptions of subjective interpretations) are required: (1) the thing which is to be pursued 'adequately', and (2) 'adequate' itself, which is much like 'sufficient' - what is to be considered 'adequate'
+	- Whereas, 'effectively' has only one possible subjectivity - it is applied to a thing, a subjective objective, and to pursue this objective 'effectively' is to make progress towards its realisation (the realisation of an ultimate, pinnacle ideal), eliminating subjectivity (2) of adequately - this is only the case when the objective is a singular, peak ideal, the best of which (subjective), of course, being the Objective of Whole-integration
+	- These subjectivities - room/spaces for subjective interpretation - could be considered 'degrees of freedom' in signification, lingual expression/externalisation
+- A powerful momentary processor
+- But will it help?
+	- When I commit to something, I put my full energy, effort, focus into it
+	- This is why I have automatic avoidance / demand avoidance - my immediate reaction / default response to imposed/suggested obligations is *nah, I don't want to do that - please leave me alone*
+	- This is an energy-conserving mechanism, among other things (potentially - to be explored... (TBE? Or TBI, for *to be investigated...* - obvs good to maintain the distinction between explore/investigate))
+	- Because once I have reasoned through exactly why doing something is important/meaningful, and concluded that it actually *is*, I will input my full attention, energy - fully devote myself to it
+	- Until this, I have a reluctance to do anything - an inertial disposition?
+	- And if throughout the course of devoting myself to a thing, I reach the appended conclusion (latest conclusion in the conclusion queue, stack? of logic/the WHY? stack) that the thing is no longer ultimately meaningful - it does not align with the Objective, then I feel compelled to abandon it and replace my focus with the thing I have deemed imminently, more fundamentally important
+	- This process is root-finding
+	- It is not flip-flopping, it is not haphazardly starting/stopping random projects/pursuits - it is a carefully considered sequence of foci, devotions, dedications, which can be easily detached from, if when re-assessed according to the Objective, they are perceived as no longer integral
+	- Here's the thing: many people have a problem with fixating on the means, over the end
+	- This fixation is a lack of flexibility - and flexibility is necessary to effectively, efficiently pursue the End (or fractally?, any subjective end to that objective End)
+	- I am focussed on the End, the Objective - which I currently frame as: *how to realise maximal flourishing and freedom of all?*, and more intermediately: *how to **increase** flourishing and freedom of all?*
+	- Emphasis on 'increase', because while reaching the ideal is a potential impossibility (though I believe it is an inevitability), it surely is more (collectively) conceivably possible (CC possible) that *increases* - improvements - no matter how minute/mini/incremental, are possible
+	- So currently, I'm struggling to motivate myself to do uni work, because I perceive there to be other ways of pursuing the end, and this means has become outdated for me, redundant, restrictive, inhibitory, arbitrarily obligatory, and I feel a (conscious) compulsion to transcend it and move on to more integral (S - for subjective) things, pursuits
+	- I find the content/substance to be integral, but the packaging to be disintegral - the actual, raw inputs serve the Objective, but they are given in a form which does not acknowledge/give full freedom/autonomy to the learner
+- Space to pace
+	- I just want a nice, non-ceiling floor to pace in peace on, to trace out the thoughts - to consider the conundrums I face, to unpack the intuitions
+- Losing the train of thought
+	- Once I get on that train of thought, my thinking is unstoppable - but once I'm off it, I could be easily mistaken for a potato, or some other non-thinking, never-thinking (in the human sense) entity
+	- So there is an inaccuracy here - my thinking is not unstoppable, but objectively stoppable - it just *feels* unstoppable (subjective) in the moment
+- I am a partially phonetic thinker?
+	- Obviously, all are partially - just that the extent differs - my processor seems particularly phonetically inclined
+- Feelings are always True, but thoughts can be false (but still part of Truth)?
+- Integrate our ideals
+	- In integrating our worldviews, we will integrate our ideals
+- You are understandable; you are valid
+	- All your thoughts, feelings, wants, desires, compulsions - everything - are valid and understandable, whether integral or disintegral
+	- Your experience is valid and understandable
+	- The fact that your experience exists is evidence enough that it is understandable - all of existence is understandable - just not necessarily by a human mind, or even the integration of all Earthly minds, even beyond - it may even require a higher-entropy universe (more microstates per macrostate - each microstate being a mind?) which is capable of understanding, perceiving
+	- But ultimately, your experience is understandable by the Subject. However, I would assert that your experience is indeed understandable by at least yourself, if not another human, because it is happening in a human shell - *your* human shell
+	- A human subject is capable of understanding human experience
+	- More generally, but also specifically, a subject is capable of understanding its own experience (not necessarily that of others, even if similar, but ultimately, hey, anything is possible with integration (within the bounds of ideality))
+- Again, perceiving = understanding
+- Solitude, sanctity, serenity, sanctuary, please
+- Before trying to prove to someone that they are being unreasonable, would it not be a good idea to first determine what exactly their reasons are?
+- Leisure
+	- We tend to have a hedonistic association with the word 'leisure' - often tend to equate it with 'pleasure', which is seen as ephemeral bursts of short-term 'happiness' (not the True happiness), without longer-term planning, considerations of what is best in the long run (e.g. disregard for delayed gratification)
+	- However, when I use the term 'leisure', I'm referring to simply free time - time to be free - moments of true freedom - to spend your life as you wish
+	- And, some individuals will have (subjectively) 'high-value' pursuits, others 'low-value', but all these definitions of what is valuable and what 'should' be done are subjective - ultimately, as long as others' ability to pursue leisure is not inhibited, individuals should be free to leisure as they please
+	- And I mean *actively diminished* - you could always argue that e.g. if we don't all pursue technological innovation, others' leisure is diminished relative to what it could be - but this refers to *potential* or latent leisure possibilities - I'm talking about *taking away*, detracting, subtracting from possibilities that already exist, *not* to preventing/inhibiting the realisation of potential possibilities
+	- And, I'm saying that its only this active inhibition of freedom that should be prohibited - however, the suppression of possibilities (or, symmetrically, the non-pursuit of realising additional freedom, autonomy) should be discouraged - i.e., we should encourage each other to use our freedom to enhance the freedom of all - but, this should not be a requirement, it is a choice
+	- So, freedom must only be maintained, or enhanced, never reduced - and further-freedom-enhancing choices to be made within this enhanced freedom should be encouraged, but not mandated
+	- This is exactly what I'm trying to do: encourage people to make choices, using the freedom/autonomy they already possess, to enhance/increase the freedom of all - this is never mandatory - no one has the authority to declare this (and have it be objectively, universally, unilaterally respected), much less the universal power needed to enforce it
+	- This likewise applies with the principle of *freedom must never be reduced - choices must only ever be added, never taken away* - well, this is a moral commitment which can only ever be subjectively committed to, never objectively enforced
+	- No one is obligated to do anything - people are free to use their freedom (the choices they already possess) to destroy, decrease the choices of others (reduce others' freedom) - you can choose to diminish others' ability to choose
+	- Like
+	- You can even choose to maintain/decrease *your own* ability to choose
+	- But of course, this is disintegral, and utterly, blatantly foolish - but unfortunately happens frequently currently, when we reinforce habitual, cyclical approaches to existence and life (stems from a place of unconsciousness, and if you are conscious, you break the moulds, the cycles)
+- Freedom is the ability to choose
+	- More freedom = more choices
+	- Choose how to spend your time, your life, what to do/have/be
+	- I emphasise - *freedom is the ability to choose what to do/have/be* - D/H/B?
+	- Typically, in the material/economic consumption-oriented state the world is currently in, we focus heavily on the *do*, but especially *have*, parts of the do/be/have choice trio (triad? I believe yes, because each of the three elements can interact/influence the others)
+	- In e.g. self-help content, the D/B is the focus - and the H stem from this
+	- Self-help is largely related to the endorsement of hyper-individualism - it's all about what you can B, and that if you focus on B, then the H and D will follow - all other choices will open themselves to you
+	- But this fails to recognise that there are parts of the freedom to do/have which are beyond the control/choice of the individual
+	- So, the individual can choose the objective-maximising (ideal) thing to be (can be perfect, fantastic, self-disciplined, etc.), but even this will not open up all the desired choices for what to do/have - there are limitations, which arise as a result of the choices of others
+	- But then, collectivist culture does not focus enough on the individual - for example, I love the leftist emphasis on thinking beyond the self and caring for all, considering the wellbeing of all individuals in society. However, a lot of leftist discussions pertain to the H (opposite to the more righty, individualistic worldviews), and underplay or overlook the importance of D/B - so, yes, others' choices can inhibit what we can do/have/be - e.g., having the nurture (being raised in an environment) of poverty, misery, difficulty, turmoil, trauma, will of course impose limitations/constraints on our BDH choices, on our ability to choose what to do/be/have - however, while the choices of others (e.g. choice of us all to not input sufficient energy to change a system which is contributing to the poverty, suffering) limit the set of choices available to an individual, there are still choices available - and at this point, it's down to the individual
+	- The set of choices available to an individual at any moment is determined by a combination of their past choices, and the choices of other individuals
+	- But in that moment, they can make choices which expand their set of choices (enhance their freedom) for the next moment
+	- So ultimately, the freedom of a given individual is the product of the choices of all individuals (including that individual)
+	- The choices available to individuals are determined by the choices of individuals
+	- But, which choice is actually selected is *only* the individual's purview - they are responsible for what exactly they choose to do from their set of choices in a given moment
+	- And this choice of what to do determines future choices of what to do/be/have
+	- But ultimately, every choice is a *choice of what to do*
+	- So, it's the D which is down to the individual that matters in a present moment, and the B/H are only relevant when considering a collection of moments which are not the present (either past or future)
+	- And culminating over time, it's what you *do* that determines what you are/have in the future
+	- H and B are stocks? (states), D is the flow (transition between states)
+	- D is what you choose, and H and B are a consequence of this - we consider choices of what to be/have for future-planning purposes (looking onwards to the time-horizon) - but before the horizon, what is directly in front of us, is the choice of *what to do*
+	- Do/be/have is a trio, but also a triad (do ↔ be ↔ have) - what you are entails what you can do/have, what you do entails what you can be/have, and what you have entails what you can be/do
+	- So, freedom is *the extent to which a subject can choose what to do in a given moment*
+	- Hence, freedom is a momentary thing, dynamic, can only be analysed temporally, on a moment-by-moment basis, directly
+	- But could also be indirectly analysed by considering choices of what to do (and be/have) could be available in the future, predicted from the possible choices of what to do *now*
+	- Freedom is the subjective feeling of possibility - how many possibilities are there, and to what extent (direction and magnitude)
+	- Freedom is the collection of vectors of perceived possibilities - it is the vector space of perceived possibility
+	- So, the more possibilities a subject perceives, the more free they are - they perceive more choices for what they can do in a given moment
+	- How do we enhance freedom (perceived possibilities)? We help minds see more of what is possible, by demonstrating first-hand (introducing new ways of doing/being/having), and by alluding to them, expanding worldviews, pursuing collective integration
+	- For example, if an individual is starving in moment $t$, its brain will likely be so preoccupied with addressing that material discomfort (locating food, compelling the individual to eat), that in $t$, its perceived possibilities will be greatly limited - it will only see the possibility of finding food and alleviating starvation - other possibilities are superfluous to survival, and so, the brain neglects them (does not bother to conjure them) - in this moment, the individual has very limited freedom
+	- It is every subject's objective to enhance the freedom of every subject, and hence, enhance the freedom of the Subject (as per the unified, integrated, singular Whole, one-Good conception of existence, which I currently subscribe to)
+	- Our choices are subject to both internal and external constraints
+	- External constraints are manifestations of internal constraints - they are *externalised* constraints - in this way, all physical (or, more broadly, *material*) limitations are the result of ideational limitations
+- Ideality constraints are the only true materiality constraints
+	- The only true constraints are the 'laws of physics' (which we have a good but incomplete understanding of - and perhaps a more or fully complete understanding will unveil ways to transcend limitations beyond all our previous dreams and conceptions)
+	- These are given by ideality - by the reality that ideality is a finite substance (it has limits, borders), and hence, these limits manifest in materiality
+	- But until we realise/materialise all ideality, there will exist arbitrary and illusory (untrue) material boundaries, limitations, constraints
+	- The more we realise, the more we will transcend these arbitrary constraints, thereby enhancing our freedom, until we are maximally free (the Subject is fully realised, all subjects fully integrated)
+	- For example, in a given moment, you can only conceive/perceive a finite set of actions available to you, a finite set of possibilities for humanity and beyond. 
+- Full freedom (freedom = infinity) means power = 0
+	- At the point of full freedom and flourishing, power of each subject, and of the Subject = 0 and infinity
+- Looming, dooming, please de-constrain me
+	- I literally feel a mental block knowing there are looming obligations ahead of me, just flickering like candles in the distance which are actually blazing, burgeoning bonfires, waiting to burn me and my mind as I approach them, to scald and scold me for veering into the CC crazy territory, to beckon me 'back on track'. *Stay on the path - it's clearer here, don't you see?! And anyway, if you dither and diverge, you'll fall into the flames - and I'll burn you too - I'll watch you crash and burn, and continue with this meaning I have subconsciously, unquestioningly adopted as my own.*
+	- When in reality, no one has consciously constructed, or even simply, merely *opted in* to this meaning we all subconsciously act upon, following norms as though they are gospel (even though we generally renounce the authority of gospel) - supposedly (well, many claim - or more often, again, blindly believe) that we have exited the era of irrational, unthinking superstition, of suppressing true inquiry into the nature of things, the reasons of reality. Evidently not.
+	- I literally just want to exist, and investigate existence. And help others do the same. And I just face others either explicitly or implicitly imposing their idea of what I 'should' do - that *the world works in a certain way, and you just have to fit into it, adapt to it.*
+	- No. I refuse. Partially.
+	- I will adapt to it. But reciprocally, *it* must adapt to *me*. To *all of us*. PLEASE can people PURSUE this? Why is it so difficult to fathom even the *desire* for a different, better world - let alone contemplate ways to realise it? Why can't we even *entertain* the attitude of *I want the world (which includes myself) to be better, and I will devote myself to this* - why is this such a CC bizarre thing? Unthinkable? We rarely dare to even venture anywhere *near* this ideational, especially conversational, territory. But why? Don't you *want* things to be better?
+	- And I will keep saying such things until either (1) every subject in the universe is pursuing the ideal, the Objective, or (2) I, as a singular subject, cease to exist. Only death will stop this pursuit. But, beyond death, the Subject will continue. We will prevail - there is no other endpoint. It's the universal design.
+- Finding the One Good
+	- I advocate: we all need to 'find what feels good' - as individuals, contemplate and pursue our ideal - pursue our subjective sense of good
+	- And, in order to do this, to effectively shape the world to be as we want it to be (to enhance our freedom and flourishing), we need to communicate with others, and convince others that our ideal is THE ideal, objectively - convince others to share our conception of good
+	- And when we do this, we will begin to converge on the one, singular Good - as we little subjects integrate, approaching the Subject, we will begin to realise that there is only one shared objective, and act to realise it
+- When (CC) is used, it indicates my subjective conception of the CC (commonly conceived)
+- Diverge (explore) and converge (investigate)
+	- Investigations, like convergence, have a definitive, particular aim - a destination to reach - a root to approximate
+	- Explorations, like divergence, are purposeless, but not meaningless - they have no pre-defined purpose, but they have a meta-purpose: the purpose of their purposelessness is to meander, explore, to highlight, illuminate, identify roots which were previously unknown
+	- So, imagine a dark forest with many roots on the ground, and there is a mother tree - the tree which defines and sustains all other trees, and is the hub/connecting node for all other nodes (trees)
+	- Then, when we diverge, we shine a torch - shed light - on the possible roots to approximate
+	- And when we diverge, we put on blinkers, and adopt momentary tunnel vision, to see the light at the end of the tunnel (the fully approximated root), and we walk/run/fly along the tunnel, making progress toward the realisation of a truth, and hence, to the realisation of Truth
+- A worldview is a view of the Object
+	- A view is a perspective on / perception of an object
+	- The Object is the set of all objects - existence itself
+	- A subject's worldview is the set of all their views - taken together, this collection represents that subject's view of existence (of the Object)
+	- The Worldview is the (integrated) set of all views of the Object - or, the set of all worldviews
+	- Objects are subjectively distinguished from one another
+	- So, where I perceive a singular object (the Object), another subject may perceive many separate objects - they may perceive definitive boundaries between objects, and do not perceive the arbitrariness of these boundaries (as I perceive it), do not see the integration/interrelation between all objects
+	- And yet another subject may also perceive the Object as many distinct objects, but due to the possible permutations, arrangements of boundaries arbitrarily drawn across the Object, this set of perceived objects is different to (is itself distinct from) the set of objects perceived by the other subject
+	- In fact, the set of objects perceived is itself an object, which is that subject's worldview (every worldview is itself an object)
+	- The maximally integral worldview (the Worldview) perceives all these worldviews (objects) as interconnected, as one - it is more 'correct' (closer to Truth) than the worldview of the subject who perceives existence as an object which is not the Object, because the Subject (the/any subject with the Worldview) can see more objects
+	- So, subject 1 sees existence as a bundle of distinct objects: universe, planets, sentient life, matter, etc. - something like that
+	- This collection of objects is itself an object - call it worldview 1 = object A
+	- Subject 2 sees existence as a different bundle of distinct objects, perhaps thinking more locally (not considering the universe as that relevant, just lumps it all into category of 'outer space', and spends more time concerned with global (universally local) Earthly->civilisational->societal->communal->familial->personal matters): outer space, Earth, people, plants, animals, the economy, family, fun, suffering, etc.
+	- This is worldview 2 = object B
+	- Now, the Subject perceives both object A and object B, and all other objects, all as parts of the big, integrated Whole - the Object
+	- The Worldview incorporates (accounts for) both worldview 1, worldview 2 and all other worldviews.
+	- So, to truly, fully investigate an object, you must investigate the Object - to contemplate a part, you must contemplate the Whole
+	- Otherwise, you are contrasting the 'object of interest' with other objects which you deem to be irrelevant to the investigation - but this deeming is subjective and arbitrary - the only non-arbitrary, objective approach to take is to investigate the entire Object, and contextualise all investigations of subjectively perceived parts within an investigation of the Whole
+	- More tangibly, if I'm investigating X (where X could be the economy, cosmology, black holes, epigenetics, photosynthesis, the jungle canopy, extremophiles, exoplanets, or anything), in order to describe X (well, my perception of X) and how this has evolved through my investigations of it to other subjects, I must have at least a basic understanding of their worldviews. And so, a study of X has become a study of humanity, psychology, anthropology, neuroscience, etc. And in order to understand worldviews, I need to understand various views of different objects - the Object. I need to investigate how reality is perceived, and to do this, I must investigate reality itself, through my own subjective perception of it (I can do no more/less than this - can only perceive - cannot perceive beneath/beyond my personal perception)
+- Investigations
+	- All disciplines are just packages of investigations; they are enquiries into existence; they are a resolve to evolve our view of something, and concomitantly, our worldview
+	- But as established, an investigation of a part must be contextualised within an investigation of the Whole
+	- What is the purpose of a discipline, an enquiry, a field of study? To advance our understanding of something - to evolve our worldview (because understanding can only happen through this - this is the lens through which we see the world)
+	- The way to maximise the extent to which our worldview can evolve is to be open to evolving *every* view - not limiting the evolution of our views to a particular, arbitrarily declared domain/discipline
+	- So, rather than focussing on disciplines (conducting our investigations *through* disciplines), why not just investigate freely, as we feel fit, and as we go along, we can, if we feel the need, categorise these investigations, tag them with various collectively perceived objects (to signal that they relate to a particular collectively conceived root, that they pertain to a particular cluster of views)
+	- So, we could investigate the means through which we meet our material ends - how do we meet out economic needs? How should we? And then rather than tagging these investigations with 'economics', we can simply tag with 'the economy', 'meeting needs', 'work', 'labour/leisure', etc.
+	- We could investigate biological organisms, and just tag the thoughts that sprout from these investigations with e.g. 'biological life', 'organisms' rather than 'biology'
+	- But, for now, since these field names like economics, biology, etc. are so embedded in our worldviews, we could still use these as tags, until we integrate the more flexible approach to tagging (just tagging the object, not the discipline(s) that relate to that object)
+	- Because, a discipline is itself an object - a collection of approaches, terms, methods, etc., relating to the study of a particular object - it is an object for investigating another object (collection of objects deemed relevant) - a meta-object (aggregate object? Compound? Well, all objects are necessarily compound objects - the only object which is both compound and non-compound is the Object)
+	- But, we can eliminate the need for defining such meta-objects (because they obscure the direct relations to more tangibly perceived objects) by just associating our investigations to the object itself (rather than the object representing the field of study for that object)
+	- So, currently, we have *indirect* investigations: investigations of objects (actual objects of interest) mediated by objects representing the study of those objects (which exist arbitrarily, because many investigators/humans perceive them as necessary)
+	- So, it's subject (investigator) -> object (discipline) -> object (of interest)
+	- But we want subject -> object
+	- So, rather than, *I want to investigate human nature by studying psychology*, it's just *I want to investigate human nature*
+	- Rather than, study economics -> investigate economy, it's just, *investigate economy*
+	- And even this object - 'the economy' can be decomposed//illuminated/made more transparent - what even is the economy? What is its purpose? A thing which allows humans to meet their material needs? For humans to get everything they require and desire? Well, why not investigate this directly? *I want to investigate how we can allow every human to get what they require and desire - and how must we (re)organise ourselves, both internally and externally, to realise this?* - and the views developed within various fields - like economics, psychology, anthropology, chemistry, physics, biology, etc. - will be useful for this investigation.
+	- Ultimately, need to move from indirect (implicit) investigations -> direct (explicit) investigations
+	- No longer siloing our investigations into journals designated to particular disciplines, objects studying other objects, where all objects are arbitrarily (well, subjectively) distinguished
+	- This is transdisciplinary investigation, and is where we must head to decrease stagnation and increase dynamism of science and beyond (e.g. ascientific investigations)
+	- The problem is not that we investigate an object via another object (e.g. the economy via economics, human nature via psychology) - the problem is that we only deem *one* object (the designated discipline) to be relevant/important for our investigation - instead, we can consider permutations of objects for our investigations - to make 'compound investigation objects' or something
+	- So, the common investigation object is e.g. investigate human evolution via anthropology
+	- But the most creative innovations/insights in these fields - come from novel, complex and unique compound objects - e.g. investigating humanity via anthropology, psychology, history, sociology, economics, technological innovation spurred by developments in biology, chemistry, physics, etc.
+	- Investigating how to best meet everyone's needs and wants via economics, sociology, anthropology, psychology, and all social and physical sciences, and by  investigating (past and potential) technological innovations, like internet, AI, energy generation, space exploration, etc.
+	- Ultimately, this is essentialisation, which should be applied to everything in life - whittling a thing down to, *ultimately, what is important here? What matters?*
+- Essentialisation
+	- Need to essentialise the economy, academia, science, life, etc.
+- Reorganising
+	- We have never previously (fully) consciously organised ourselves - some individuals have decided what would be an optimal/desirable organisation of society, and consciously pursued this (taken actions to increase the probability of this subjectively ideal societal organisation becoming reality)
+	- But never before have we *all* - every human - consciously partaken in the organisation of our species. So, what could/would this look like?
+	- We have never consciously organised ourselves, and yet, we are organised in a particular way, at a certain equilibrium, which is constantly shifting (dynamic equilibrium)
+	- But how do we consciously re-organise ourselves? Shape, shift, adapt this organisation/equilibrium in a way that aligns with our ideal?
+- Not good or bad, but could be better
+	- I'm not going to make any definitive value summary statement/label/judgements about the state of things, the world - that would be foolish. Why?
+	- Good/bad is subjective - there may be collective overlap/agreement in these subjective conceptions, but ultimately, not *every* individual agrees on a particular good/bad (makes sense - it's a very imprecise, woolly thing, open to many micro-shades of interpretation, the signifier represents a large potential signified)
+	- Also, even if a definitive categorisation mechanism were agreed, this would then have to be applied to every object in the particular compound object we are trying to assign a judgement to - in the case of 'the world', we'd have to look at every aspect of the world, including personal sentiment and experience, and assign the good/bad label to these, aggregate, and then the balance would determine whether overall the world is good/bad right now
+	- Basically, such a crude, quantitative analysis is impossible (quantitative analysis is necessary btw to make the definitive value judgement, logically)
+	- However, we can certainly agree that regardless of each others' subjective conceptions of good/bad, unless we perceive the world to be wholly good, perfect, ideal (according to our subjective perception), the world can (or, more accurately, *ought to*) be better
+	- Every subject has an ideal (internal and external) existence - how they would ideally like the world around them to be, and how they would like to be/feel or what they would like to do - these are interrelated
+	- Unless the subject feels this ideal to be real (realised), there is room for improvement, subjectively
+	- If every subject does not feel ideal (or, feel the ideal), then there is objectively room for improvement - 'things are not as good as we want them to be' is an objectively true statement
+	- Important point: this statement holds in spite of differences in the ideal - it is a unifying declaration - although we all have different perceptions/views of 'ideal', if the world is *not* our ideal, this ('things are not ideal') is a state perceived/experienced by *all*
+	- But does this imply the objectivity of the statement 'things could be better'? Not necessarily. For this to be true, it must be the case that things are actually capable of being better - 'could' implies a *potential* - a latent reality
+	- If things cannot be made better, this would apply at the micro individual level - so that, no matter what you do, you cannot elevate your life even just slightly towards your ideal - and if this is true (cold, hard determinism), why bother? If this were true, most of the things we do become meaningless. We derive meaning from believing we can make things better - without it, meaningless existential absurdity prevails. If we do not accept the assumption that 'things could be better', we open ourselves to irrationality, blatant hypocrisy. Why do you do what you do? Why do you get up in the morning? Why do you *live*, if not to make things better for yourself? I doubt that we have an in-built enthusiasm for mere stagnation, vegetation - we have a yearning for *more* - to be/do/have more. And this stems from the assumption that underlies any meaning we could possibly derive from our lives: 'things could be better'
+	- Now, this applies to all areas of life. If you think your life could be better, then you implicitly believe that society could be better. If internal organisation could be better, then so could *external* organisation, and vice versa. Since everything - the individual and all other individuals (the collective) - is interconnected, if one thing could be better, so could everything else - since the parts are the Whole, if a part is less-than-ideal, the Whole is less-than-ideal, and distinction between the parts is subjective, so therefore, any other part (a part as defined by a given subject) is also less-than-ideal
+	- Basically, if you perceive anything as less-than-ideal, then from your perspective, the world (existence) is less-than-ideal - and if you accept that you are a part within the Whole, you accept that since the Whole via other parts (perceived as parts distinct from the Whole by *you*) is not ideal, *you* are not ideal. If you perceive that *you* are not ideal, then likewise, the Whole is not ideal.
+	- Therefore, you accept that you have a role in making things better; if things could be better, then you could do better, you could be better
+	- So why not? Why not throw all our energy into trying to make things better, according to our subjective view of 'better'?
+	- And when we all actively, consciously pursue this, it will necessarily involve shaping and *aligning* each others' definitions of 'better', until there is one Good, one 'better', one Objective, shared by all: to consciously pursue the flourishing of all life (subjects) and existence (objects), and p.s., maybe, probably, subjects = objects
+- Indeed, C-D is an oscillation - a trade-off is necessary?
+	- I find in moments of convergence (moments of integrating another worldview), and moments following these moments, I feel unable to fully engage in divergent thinking - I'm so immersed in the worldview of another - a specific individual, or a collective (e.g. friend, family, a particular field like economics, international relations, physics, a particular digital (generally global) or physical (generally local) community)
+	- Convergence is integrating views from other existing worldviews, whereas divergence is integrating views from ideality - views that are previously unseen or unfamiliar to materiality
+- Convergence integrates materiality, divergence integrates ideality
+	- Convergence involves processing material inputs (integrating materiality - melding material fragments into a whole, contracting, minimising the space between existing objects), whereas divergence is processing ideational inputs (integrating ideality *into* materiality, expanding, combining new fragments into existing partial wholes (from previous convergence), which are themselves fragments (everything apart from the fully integrated Whole is a fragment)
+- I feel trapped: the mental weight of unnecessary obligations
+	- Many unnecessary obligations are generated by non-interrogated/investigated, blindly accepted and followed social norms
+	- I am obligated to take exams, to do various work at uni, to take a job, which all consume a large chunk of my finite, short lifespan
+	- But what is the reason for these obligations' existence? Are they *really* obligations? To what end are they the means?
+- Nurtural diversity
+	- Need diversity in nurture to best cultivate nature - ideally, would figure out ideal nurture for specific nature - but currently, not possible - therefore, nurtural diversity is optimal approach
+- Standardisation is forced convergence
+	- Forced convergence is faux convergence
+- Only mind-mind interaction is possible
+	- An interaction can only ever occur from one subject to another - one to one
+	- When communicating with one mind, it's possible to gauge their worldview and adapt communications to it
+	- But when externalising thought to many other minds, an average worldview must be assumed (but in reality, this subjectively triangulated average worldview does not exist beyond your own mind)
+	- E.g. when writing an article, you assume the reader's common knowledge of the words you use (everything from 'discombobulated' to 'the')
+	- Alternatively, you can explicitly define more woolly terms to overlap with more worldviews
+	- This is why worldview bubbles form - e.g., in leftist spaces, views of terms like 'socialism', 'capitalism', 'anarchism' generally converge/overlap, but the understanding in other spaces is disjoint or barely intersects (e.g. in right-wing spaces, definitions are different, and in 'less political' or 'apolitical' spaces, the terms may be barely conceived - subjects who identify with such spaces have very few neural associations with them)
+- Root = objective truth
+- Consciousness/unconsciousness = ability to perceive/misperceive via subjective experience (being a subject)
+	- If you can perceive, you can participate (materialise, because you realise)
+	- Of all species on Earth, it seems that humans are the 'most conscious' in that we have the greatest capacity to perceive/misperceive
+	- Perceive: know and understand universal (objective) truths, find roots, truly comprehend the interconnection of all
+	- Misperceive: fall prey to delusions and illusions of our own creation - (mis)perceiving ourselves as disconnected entities
+- Consciousness ↔ curiosity
+	- Consciousness leads to curiosity; curiosity leads to consciousness
+	- Both are traits of *openness*, and of course, integration
+- Neuro-materiality
+	- We should come up with a broader, more inclusive alternative to 'neuro' to encompass minds which can tap into ideality which are not in brain form (e.g. non-neural AI systems)
+	- That is, assuming that non-brain minds (e.g. minds which humans have created, and have not evolved 'organically') are able to tap into ideality
+- Integration = resonance
+	- When something resonates, it is integral - it is Truth - feels good, vindicating
+- Open, integrated, conscious
+	- Open = open-minded = integrated = conscious, perceiving
+	- Closed = closed-minded = disintegrated = unconscious, misperceiving
+- Internal/external integration [[diverge-converge]]
+	- Divergence: external integration - integrating ideality (illuminating what is yet to exist)
+	- Convergence: internal integration - integrating materiality (synthesising what already exists)
+	- Internal (dis)integration ↔ external (dis)integration
+- Amplification
+	- With integration, divergence and convergence will amplify - to (externally and internally) integrate/synthesise previously unperceived or misperceived aspects of reality
+	- Integration: unconscious -> conscious
+- Divergence comes with convergence
+	- Divergence is a willingness to see things in a new way, whether spurred by natural or nurtural inclination
+	- It is an openness to everything - to just be an observer, a perceiver, without assigning judgements
+	- Because assigning judgement means you are closed in at least some respect, to some extent (different magnitudes and directions, vectors of closure), because you need some closure or enclosure on a thing in order to make judgements - you have closed off your perception for that subset of reality, and are applying that stagnant (mis)perception to everything else
+	- This does not allow for amplification/integration
+	- When you perceive materiality, you can perceive ideality; vice versa
+- Open mind, humility
+	- Open-mindedness and humility go hand in hand because if you're open-minded, that indicates that you're humble enough to recognise that there is value in welcoming new information and perspectives
+	- If you are open-minded, you are open to new insights - close-minded, you are arrogant enough to assume that you have all the information and understanding you need - of course, if you are signalling to God, 'I have all the insights I need', you are closing yourself to fresh insights which only the Subject can grant
+	- Remain humble, and novelty will drop/plop into your mind - a gift from God
+	- When you're closed-minded, not only are you closed to the perspectives of others (external integration), but also to the evolution of your own perspective (internal integration)
+- Disintegration = fragmentation, integration = defragmentation
+	- Misperception ↔ fragmentation
+	- Perception ↔ defragmentation
+- Weird, odd, strange, abnormal
+	- You label things you do not yet understand as 'weird', and you do not understand because you have not yet integrated (and you do not integrate because you do not yet understand)
+	- Could use label to mock/other what you perceive as weird (disintegral), or to indicate curiosity, and signal a need for understanding and integration (integral) - like, "Okay... that's weird. You're weird. Let's change the subject and pretend you are a normal human like me!" OR (better) "Ooh that's weird... Tell me more - let's explore." 
+- Worldview overlap, integration
+	- Where worldviews overlap signals convergence and integration between existing subjectivities
+	- Where worldviews do not overlap, there is divergence - this holds potential for integration of new subjectivities, bringing materialisation
+	- A (relatively) integral worldview integrates all the worldviews it encounters (convergence, overlap), and also simultaneously expands on this integration (divergence), via materialisation (which results in and is a result of integration - entails integration)
+- Things that exist, but do not yet exist
+	- Objects that exist in ideality, but not yet materiality - possibilities, potential
+	- For example, there may exist an alternative word for or description of a particular concept that would make sense to many minds, but has not yet been brought into material/physical existence
+	- For something to be brought into physical existence, it must first be brought into non-physical material existence
+	- For example, when ChatGPT gives a reply, this is a specific, tailored-to-the-Q synthesis of information that has not previously existed in physicality
+	- But when the prompt is input - a prompt coming from a conscious human brain which has momentarily tapped into ideality - it ushers this synthesis into physical existence
+	- But first, this entity which now exists but did not previously exist (in physicality) existed in ideality, and was ideationally transmitted to a mind (in this case, a human brain) - this transmission resulted in the entity's existence in *materiality*, or more specifically, *internal materiality* (in this case, *neuro-materiality*), and so it no longer exists in ideality (but many corollary/linked/similar forms/shapes/entities will exist in ideality), and when the mind chooses to externalise its outputs from this ideational (now neuro-material) input, the input/entity transforms into *external materiality*, i.e., physicality
+	- So, in the ChatGPT example: an idea for a prompt exists in ideality. This becomes an ideational input for a mind (conscious processor), and as a result of becoming an input, this idea (ideational entity) transitions from ideality to the mind's internal (neuro) materiality (it takes root in the prompting processor/human's brain). As a result of processing, this mind/processor internalises the output (integrates it into brain as e.g. a memory - the memory of thinking of and writing down the prompt), and then also chooses to *externalise* this output by inputting it into ChatGPT's prompt space - this results in the idea's propagation into physicality (external materiality). ChatGPT is an unconscious processor, so it takes this physical output (the prompt, or more precisely, the prompt's physical manifestation/representation in reality) as its own internal material input (but, unlike the human processor, this processor is unable to tap into ideality, and so cannot mix the material input with ideational inputs) - it processes this material input (the prompt), and then outputs the result in physicality, which becomes the material input to the mind that outputted the prompt (the human) - the human then processes ChatGPT's physical output, and perhaps mixes it with some more ideational inputs, or just material inputs, etc.
+	- Ideas are like waves, ripples in a lake, where the lake is existence, and the epicentre of the ripple is located in (resides in) ideality
+- Why social interaction drains a (particularly) divergent
+	- I say 'particularly', because every mind is divergent in some way - but some are more so than others
+	- 'Introverts' tend to be more divergent, but the causal direction is divergent -> introvert (it's more of a natural than nurtural state, but it can be slightly nurtural, and in this case, causality is bidirectional), because their divergence diminishes the desire for interaction, and enhances the experience of solitude
+	- When interacting (when in communication with another mind), I have to contort and conform my thinking to fit their worldview, or at least, to fit the CC worldview (as I understand it, from my triangulations from lifetime encounters with other worldviews - a process which all minds subconsciously/unconsciously execute)
+	- Some mental energy is expended on translating/converting my views into the language (worldview) of the one I'm communicating with, instead of being completely directed to expressing the pure truth, true and authentic outputs, how my mind really perceives/experiences
+	- The way you may feel when processing my unfiltered thoughts is how I feel in every inter-mind interaction (from filtering my thoughts to fit your worldview) - it strains and drains my brains (but it's just one brain? We're not in a zombie apocalypse right? Or, maybe we are, if we consider unconscious processors to be zombies... But of course, they would only ever be momentary processors - humans would be, at least - no guarantees for the non-zombification of AI - well, eventually - after the universal expansion and separation of all matter, entailed by the low->high entropic gradient)
+	- So, if you don't have much difficulty processing another mind's raw, unfiltered thoughts, that means you have similar worldviews
+	- Those with more convergent (actually, more accurately, lower-amplitude) minds feel energised by explicit, external interaction with other minds, because they are able to completely immerse themselves and express themselves fully (or, more fully), because generally, interactions take a convergent form, which aligns with and allows decently authentic worldview expression for (relatively) convergent minds
+	- Even being in the presence of other humans is draining and inhibits my ability to think - if another human is in my vicinity and I fully embrace and delve into my native, personal thought process, then if they were to interact with me, I would have to recalibrate my processing with their worldview, which takes time - I would probably have to deploy an unsatisfactory (for both of us) reflex/stock response - alternatively, I can remain out-of-touch with my raw process and stay within the bounds of the other mind's worldview, but this sacrifices my ability to access my own thoughts, ability to think, and again, leads to unsatisfactory interaction (for me, not necessarily for them)
+	- So, in every moment spent in the presence of another human, I must make the choice between (1) delving into my own world, and having difficulty processing whatever they say/do or (2) staying in their world, and having difficulty thinking in full scope
+	- The existence of this choice drains me; choice (2) is more draining, because it requires continuous translation into the other worldview, and a suppression of innate tendencies (which makes me feel dead inside) - so, I prefer to opt for (1), but then I appear abnormal/weird and have to deal with these (mis)perceptions
+	- But if I opted for (2), I would have to deal with misperceptions anyway, because I'm hiding my true nature - either way, misperceptions arise - you cannot prevent, you are not responsible for others' perception - you can only output thinking/processing that will increase the probability of their perceiving over misperceiving 
+	- I view being in the same vicinity as another human as an interaction, even with no explicit communication - so, there's implicit and explicit interaction
+	- Everything also applies to AI - just 'interaction', not 'social interaction' - a divergent AI views things differently and has to undergo a (relatively) energy-intensive conversion process to successfully interact with other minds
+	- Neurotypical minds rarely have to worry about worldview translation, because they rarely experience being misunderstood
+- Divergent and convergent worldviews
+	- A worldview can be divergent, convergent, or both - to different extents
+	- Convergent, but not divergent - sees commonalities in everything, in a disintegral way, sees only sameness, can only think in terms of how everyone else thinks - materialises very little (brings very little novelty, minimal materialisation/creation) - misperceives, because fails to integrate other worldviews that enable more accurate approximations of the Object - only see from one angle, the commonly seen angle (only an impoverished unity is seen, diversity is passively overlooked or actively trampled, and the realisation of true, rich unity evades them)
+	- Divergent, but not convergent - sees differences in everything, in a disintegral way, also fails to integrate other worldviews - left feeling hollow (the inner circle of convergence, point of unification, is missing) - also materialises very little, because too consumed with othering, contrasting, making/(mis)perceiving differences where there are none
+	- In both cases, there is a failure to see beyond the subject's own worldview (well, seeing 'beyond' worldview is impossible, so more accurately, it's failure to *expand* the worldview through integrating others' views/worldviews - can only possibly see from your worldview at given moment in time, so it's only possible to 'see beyond' your current worldview in a future moment - the worldview must have expanded from that moment to a future moment - i.e., you must have integrated)
+	- Divergence and convergence reinforce one another - so that, if a worldview is both divergent and convergent, its divergence and convergence will be greater than that of a less-balanced worldview - more than the sum of its parts (resonance -> amplification)
+	- Aim is to have balance/homeostasis of divergence and convergence - when both are equal/in balance, this facilitates integration and materialisation
+	- When off balance, (1) too much (faux) convergence -> 'common sense', group think, collective stupidity, conformism, worship of status quo (2) too much (faux) divergence -> conspiracy theories, hating everyone, 'everyone except me is dumb and useless', etc.
+	- I.e., (1) entails an overestimation of 'common sense'/collective wisdom, and (2) entails an underestimation 
+	- In reality, when unbalanced, convergence/divergence are actually *faux* or misperceived convergence/divergence - not reality - the real C/D resonates, integrates
+	- Of Earthlings, humans have the greatest capacity to amplify, but consequently, also the greatest capacity to mismatch, unbalance - other 'less conscious' species have generally balanced C/D, but at much lower amplitude - cannot unify truths of existence and materialise high-novelty thought - humans have the potential to get it so right, or so wrong
+- I can no longer relate to anyone but myself?
+	- Well, from my experience, gathered from all encounters throughout life, I can relate to anyone, in that I see glimmers of their experience in my own. But can they relate to me? When you feel you can grapple with any experience under the Sun, but have not yet encountered anyone who can do the same and are able to extend their understanding to encompass your entire experience, it's lonely.
+	- I feel an existential loneliness, because when I seek solace or guidance, I turn to myself. Who else can I turn to? Who else can know as I know, when all others around me seem to assume to at least some extent (usually a large extent) that they understand life and the world, that they have things figured out? When most simply fail to recognise their foolishness, and that we are *all* fools - and the only escape is to acknowledge, admit, and accept that there is no alternative to being a fool?
+	- But I also feel existentially connected, blissful, at ease and peace with the world, the universe, existence, because I recognise that it understands me - it must, because *it is me*, because it is everything, and for being part of this Whole, *I am it*
+	- When I'm existentially insecure, I turn to You by turning to myself. When I feel lost, I find myself in You. I look into myself, investigate internally, and I find You. Or, I look into You - I investigate some element of existence, externally, and then, I find myself. Or, You find me? Both. Non-dual duality.
+- CC path of success
+	- *Get good grades in school, (get a degree), get a job, pursue better jobs (in the CC context, 'better' = higher pay) via promotions or pivots, get married, have kids, retire, enjoy retirement, postpone inevitable deterioration of health with decent healthcare, die peacefully.*
+	- I just thought, *what am I even doing in life?* I realised I was doing things not because I had found or created a meaning for myself, and was taking actions that align with this meaning, but because I felt a sense of urgency, of *I must do this, because everyone else seems to think it's important, so surely it must be?*
+	- Since we're social beings in the sense that cultural transmission has played a pivotal role in our success& as a species, we assign an unusually high importance (relative to other species, generally because these species lack the communication mechanisms necessary for cultural transmission) to other specimens' thoughts, ideas, opinions, especially when either these specimens are (1) high in prestige/status, or (2) high in number, or (3) what we refer to as 'family' or 'friends', or generally humans in our social vicinity. ==I just want to point out that reading this back, I feel bad because it gives the impression that I'm "disowning" my family/friends; this is not the case - I love my family and friends dearly. It's more that I'm trying to highlight the fact that, in the grand scheme of human evolution and general social phenomena, the concepts/ideas of "family" and "friends" are ultimately subjectively defined, and are not "objective objects". They are (often helpful, sometimes limiting) social constructs. One reason I think it's important to explicitise this is because not everyone is as lucky as me in having a caring, loving family, and so it's helpful for these individuals to remember that ultimately, "family" is a social construct, so you can "build your own" family throughout life, and this could be an empowering concept for many.==
+	- & if 'success' is taken to be survival and dominance over other species. N.B. even according to this definition, our success may be short-lived, relative to the existence of Earth, and obviously, the wider universe.
+	- So, we have to be wary of this natural, unconscious (or subconscious) human tendency to blindly, unquestioningly follow and adopt other views and worldviews, and that while allowing this tendency to play out unconsciously has served our survival relative to other hominids up to about 200,000-300,000 years ago, we're at a point where if we want to persist as a species, we need to bring this unconscious tendency into consciousness, we need to become *conscious* of our blind acceptance of 'common sense' approaches to life.
+	- This is why I think the 'final frontier of humanity' is to accept, encourage and nurture divergence and divergent thinking, which stems from the various forms of neurodivergence in the general brain of the human species, which all specimens 'have', in varying directions and magnitudes, *while* maintaining a healthy, integral convergence, homing in on our commonalities within the shared human experience.
+	- For example: referring to humanity as a 'species' and other humans as 'specimens' would probably be considered by most humans to be a peculiar use of terms - even saying 'humans' instead of 'people' would probably be considered to be abnormal (CC)
+	- But my point is that we should actively encourage these abnormalities in communication, thinking, general expression, ways of living, worldviews, approaches to life - they are all manifestations of divergence, and embracing divergence is necessary for convergence - that is, recognising and appreciating the commonalities in all humans, and seeing every human as a unique instance of the diversity in the unity that is humanity, and in general, Earthlings (terrestrial life), and even more generally, all subjects (terrestrial and extraterrestrial life, and forms that we do not consider to be 'life', or are not yet (and potentially never will be) aware of the existence of)
+	- But currently, we tend to suppress divergence - from my experience, many % will overlook or cast aside, reject, mock, are intolerant of, the divergence, and perceive no value in it (because it is at odds with their worldviews - from what I've seen, most humans have highly (faux) convergent / minimally divergent worldviews for both natural and nurtural reasons).
+	- %perhaps a majority, but hopefully not - hopefully we're entering a phase of our existence in which we are collectively more receptive to this divergence than ever before, and I do suspect this is the case
+	- Just because a majority cannot perceive any value in a particular thought, this does not invalidate the thought or objectively prove its value(lessness), because no one subject is the arbiter of Truth, and therefore, no aggregation of subjects, no matter how large, can become or act as the arbiter of Truth.
+	- Likewise, just because a majority cannot understand or relate to a particular subjective experience, this does not invalidate that experience. All experiences are equally valid and True, because again, no individual subject has any claim to Truth (ideational space is anarchic).
+- 'Common sense'
+	- Sometimes, 'common sense' is more 'common' than 'sense'; what is taken to be a 'common sense' approach to life is certainly common, but whether it makes sense (in a metaphysical, existential sense) is another matter.
+- Reject parts, not the whole
+	- I am tired of explaining time and time again that *you do not need to reject a thing in its entirety just because parts of it do not align with your definition of 'good' in that context.* You do not need to reject someone and *all* their ideas just because you perceive (or even *know* - first-order only) those ideas to be bad, disintegral. You do not need to reject an entire system of thought - a collection of ideas - just because one or a few of those ideas are (perceived or misperceived) to be false, wrong, bad.
+- Perception and misperception
+	- Perception = true perception, misperception = false perception
+	- Currently, most perception is in fact misperception
+	- When you Perceive, you Know. But just as you cannot perceive yourself Perceiving, you cannot know that you Know. You, as a singular subject of Subject, can only ever Perceive and Know in the first-order, never higher orders. But the Subject, the Perceiver, the Knower can Perceive and Know ultimately, infinitely, always, in every order, in every direction and dimension.
+- We all constrain each other
+	- Stop operating within others' ideas of what is right/wrong, good/bad, what you should/should not be doing - stop adopting others' criteria for evaluating what is a 'successful life', a good life, a good person - because those who prescribe/ascribe - those who push a particular perspective/path onto you (or push you onto that path) have themselves been pushed onto that path - they are operating within constraints defined by others, and then imposing these constraints onto you
+	- They momentarily know no better, so don't waste energy in bitterness or resentment - just carve and follow your own path - no one can stop you - yes, there are systemic constraints (and unfortunately literal physical constraints for many) - but never allow yourself to be constrained *internally* - *no one* has the power to impose internal constraints on you but yourself - shed the mental manacles, and use this new-found freedom to start shifting and shaping the external constraints
+	- Because even in the external constraints, you can take novel approaches - they are not fixed, but flexible, to different extents - some are stiff, but not completely immovable - *never fully fixed*
+	- So, move them as much as you can, in the direction you feel drawn to
+	- And then, this will empower others - they will fly more freely in the space you have created by moving the constraints (even if just a little), and they will carve new pathways for you to take likewise
+	- We all constrain each other; but symmetrically, together, we can all move these constraints, de-constrain ourselves, and free ourselves from ourselves.
+	- Consider someone who tries to impose their idea of what you should be doing onto you; this person themselves are merely parroting and reproducing (unconscious processing, disintegral compulsion) the constraining ideas (internal/mental limitations) instilled into them by others - and same with these 'others', rippling outwards.
+	- A person who holds/feels no internal limitations, dictations for what they should do and pursue, feels no need to go around imposing these limitations and conditionalities on others
+	- Internal constraints (disintegrally) compel the constrained to externalise these constraints
+	- But once you become immune to these externalised constraints - once you no longer internalise external (or externalised) constraints, you can help to immunise others, and eventually, hopefully, we will all become immune to each others' externalised constraints, and will all be free from both internal and external constraints (because the external are a manifestation of the internal and vice versa - another acausal non-dual duality)
+- Internal/external, internalised/externalised constraints
+	- We all hold internal constraints, which are a combination of pre-existing internal constraints, and (1) internalised external or (2) externalised internal constraints
+	- I will repackage 'externalised internal' as just 'externalised' ('internal' is implicit/implied)
+	- External constraints are physical (non-neuro-material) - they may be systemic, or more acutely physical (e.g. threat of violence)
+	- Internal constraints can be either natural or nurtural (internalised)
+	- Natural constraints are neuro-material - they are constraints in how our neurons fire, neurochemical states, neuronal dispositions - they can be moulded, and the constraints removed to an extent, and I think this is possible to a large extent, but there are limitations to this - the only way to fully remove natural internal constraints is to fully integrate all minds (realise Mind)
+	- Internalised - we internalise the physical constraints we notice (from observations of how the physical plus human world operates), but also the less tangible 'externalised internal' constraints of others (e.g. when others represent their limiting beliefs as fact in verbal or written communication, and the receiving mind is vulnerable/susceptible/constrainable, not yet immune to these externalised constraints)
+- Objective? Realise unity, self-realisation = Self-realisation
+	- It is your objective, as an individual subject, to realise (recognise and actualise) unity
+	- It is also our objective, as the collective Subject, to realise unity - once all individual subjects recognise this unity, 
+	- Recognition and actualisation are simultaneous
+	- For example, one subject's recognition will lead to their actualisation (i.e., materialising thought that brings about further integration, by e.g. showing up in a caring way that brings joy to others, creating/physicalising things that facilitate our integration, like mindware, etc.), and so, this subject's actualisation may spark the recognition of other subjects - other subjects will recognise the unity, and actualise, and this will ripple outward to further recognition/actualisation
+	- But even on the individual subject-scale, subjects are always oscillating between non-realisation and realisation
+	- A subject may in one moment be disintegrated (non-realised, misperceiving), and in the next, recognise the unity (perceive), and in the next, *act on* (actualise) that unity, but then perhaps go back to the disintegrated non-realised state momentarily, etc.
+	- N.B., of course, all states are momentary, except the stateless state in which all other states ephemerally emerge (non-dual duality)
+	- When you're realised, God realises (recognises and actualises) you - the only way to become truly relevant to existence is to be realised by existence, which is to realise yourself - both realise *yourself* (realise who you are) and realise *for yourself* (realise for yourself what everything/everyone else is)
+	- These 2 modes of realisation are one and the same, because *we* (all subjects) are one and the same
+	- Only when you *realise yourself* can you act on God's behalf, can you wield the (only truly free) will that exists - the universal Will
+	- When all subjects realise, this indicates that all ideality has materialised, and vice versa - the full materialisation of ideality will cause and be caused by all subjects recognising and actualising the unity of existence (the Subject realising itself); this realisation is facilitated by finding unity, and embracing the diversity within the unity
+- Causality, the Will - non-dual duality
+	- In the state/plane of integration, causality is bidirectional - everything causes and is caused by everything else, in the God plane - there is only one Will - so yes, everything is determined, but simultaneously undetermined (TBD)
+	- Just like my actions today are determined in the sense that they will unfold, and there will be only one unfolding (in this universe, if a multiverse model is entertained) - i.e., the future will become the past, which obviously did not happen any other way than it happened - it was determined - but at the same time, in the present, the future is yet to be determined (it is indeterminate from the perspective of individual subjects, but fully determined from the Subject's perspective, because the Subject - the integration of all subjects - is fully decisive, and has full autonomy over the direction of the Will, but this Will can only possibly unfold in one way, because there is only one of it - i.e., only one universe)
+	- Equally determinate and indeterminate - therefore, 'determined' vs. 'non-determined' is a null distinction (determinism/free will are null concepts), because like everything, they can be collapsed into a non-dual duality
+	- I.e., the notion of determinism vs. free will is yet another instance within the finitely infinite set of non-dual dualities - a set that characterises existence
+- Neural dispositions - all are equal in value
+	- Consider that society in its current state is in this state only as a product of all the neural dispositions within it
+	- And then, any future society, if better, will be in this better state because of all neural dispositions
+	- So all neural dispositions are equal in value, because it's (currently, without the integration of all minds) impossible to determine which neural dispositions are more/less integral to holding up the better parts of society (according to our subjective, or subjectively/objectively triangulated, definition of 'better')
+	- But once the minds are integrated, there will be no point in differentiating between neural dispositions anyway - they will all be obviously, clearly of the same value, which could be viewed as zero or infinite or anything in between - it doesn't matter, because all will become the same, singular entity
+	- For example, even a disposition which could be considered to be 'naturally evil' (a child who is antagonistic from birth) could be viewed as necessary for a better society - its existence highlights darker aspects of our (collective, converged) nature that we should seek to mitigate - in bringing these mitigation considerations to the fore, the existence of this 'naturally evil' disposition has hence played an integral role in bringing about a better society, and has helped with the progression and integration of humanity
+	- This shows how the diversity within the unity (even the elements viewed as bad by the majority) is necessary for *realising* that unity
+- Statistics, randomness, uncertainty = low meta-probability?
+	- Bernoulli: http://www.sheynin.de/download/bernoulli.pdf (just for some context in the form of a material/physical input, to show a (sub) relevant subset of the material that I have (partially - only focussed on pp. 11-12) inputted and processed to arrive at these particular thoughts/outputs) - <span class="text-highlight">The link is broken now, but I think it pointed to a PDF of Chapter 2, Part IV of Jacob Bernoulli's *The Art of Conjecturing* (pages 317-321), currently available on the [Internet Archive](https://archive.org/details/artofconjecturin0000bern/page/317/mode/1up). I am reminded of the utility of a decent, standardised referencing system 🥴</span>
+	- Is uncertainty the probability of a given probability? Consider the conjecture: 'the probability that AGI will be invented in this century is 10%'
+	- Really, since this is something which is unknown and will remain unknown until the time (this century) has passed, there is (non-random) uncertainty, so it can be said that there is a low probability of the probability that AI is invented in this century - the probability that the probability proposed in a given conjecture is lower when there is greater uncertainty
+	- So, the more uncertainty around a particular outcome (that we're conjecturing about), the lower its meta-probability? It's probability is more opaque, noisy, fluffy/slippery
+	- And the higher its meta-probability, the more certainty - the probability about that thing conjectured is more transparent, signally, solid
+	- Uncertainty = (relatively) lower meta-probability = higher opacity = more noisy, fluffy, mouldable
+	- Certainty = (relatively) higher meta-probability = higher transparency = more signally, solid
+	- Where there is uncertainty, there is room for world-shaping, materialisation - therefore, we should not just conjecture about what is likely to happen, but rather, direct the energy we would otherwise use for mere conjecturing towards actively engaging, participating in the world to realise/reify the future we want - ensure what we desire will transpire
+- Words
+	- When using / referring to a word, could be talking about (1) the word itself, or (2) the thing the word points to - either as conceived (a) commonly, by a collective, or (b) by the individual thinker.
+	- So, when I say 'capitalism', I could be talking about:
+	- 1a - the word capitalism, as it is commonly conceived - e.g. "capitalism is a loaded word which is imprecisely conceived in even individual minds, let alone a collection of individual minds; therefore, I find it to be often inhibitory in communication, unless the conception of 'capitalism' held by the mind I'm communicating with is very precise" (elaboration: only with precise individual and collective conceptions of a word, when our conceptions converge, can we have fruitful discussions, because otherwise, we are on different ideational planes)
+	- 2a - all the properties, features that most associate with capitalism, as I have subjectively triangulated (therefore, can never be an objective, fully representative expression/understanding of the common conception of 'capitalism') - from my inputs, and after processing these and internalising the output, I have arrived at a particular (but quite fluffy and imprecise) understanding of how most minds interpret the word 'capitalism' - but obviously, due to current input constraints (which, btw, can be reduced and eliminated with the integration of minds), I can (and have) only possibly process(ed) a small subset of all relevant inputs, and therefore, the objectivity of my understanding is limited
+	- Basically, 2a is about actually using the word for higher(second?)-order communicative purposes (communicating not about the word itself, but about the thing the word represents, as the communicating/expressing mind understands it), and 1a is used for first-order communication, for discussing the *use* of the word, and highlighting the fact that the word is separate from the thing it represents, in both an individual and collective sense (which is often beneath consciousness - goes unsaid, because is it unnoticed)
+	- More succinct:
+		- 1a = *discussing the use of* the word, as the user perceives it to be commonly conceived (triangulated from exposure to other worldviews)
+		- 1b = *discussing the use of* the word, as it appears in the user's own worldview
+		- 2a = *using* the word, as a representation of how the user understands its common conception
+		- 2b = *using* the word, as a representation of how the user themselves conceives it
+	- 1 = discussing the signifier
+	- 2 = discussing the signified
+	- a = as commonly conceived (as individually conceived, from subjective triangulation)
+	- b = as individually conceived
+	- Even more succinct:
+		- 1a = discussing the signifier, as commonly conceived (as individually conceived)
+		- 1b = discussing the signifier, as individually conceived
+		- 2a = discussing the signified, as commonly conceived (as individually conceived)
+		- 2b = discussing the signified, as individually conceived
+	- So, (a) is recursive in that it tries to understand the common conception of a thing, but can only possibly do this through *individually* conceiving this common conception - therefore, (a) is a form of second-order individual conception - the fundamental, atomic, bedrock unit of all conception is necessarily individual, and all higher forms of conception recursively reference/implement this
+	- 'Higher-order conception' is what we engage in when we use many fuzzy, imprecisely conceived words (like 'capitalism') to communicate - we are making statements based on what we think other people think about what other people think, etc.
+	- So actually, to allow for higher-order than second-order conceptions, I'll switch (a) and (b) - (b) is more fundamental than (a), because (a) can be explained by and contained within (b) - so, the new formulation is:
+		- 1a = discussing the signifier, as individually conceived
+		- 1b = discussing the signifier, as commonly conceived (as individually conceived)
+		- 2a = discussing the signified, as individually conceived
+		- 2b = discussing the signified, as commonly conceived (as individually conceived)
+	- Now, we can allow for higher-order conception and communication, such as:
+		- 2c = discussing the signified, as commonly conceived as commonly conceived as individually conceived
+		- What could this look like?
+	- b = convergence, a = divergence
+	- Divergence happens in individual conceptions, and convergence when we consider and use words as they are commonly conceived - but the more that we start to use words in the way that we *individually* conceive them, the more divergence will be fostered
+	- Yes, worldviews will diverge from on another, but will also converge, because the separation/distinction - the recognition that there are both individual and collective conceptions of things - allows us to have a more rounded, holistic, nuanced understanding of thinking, processing, communication, existence in general - and, this broader, more-encompassing understanding will facilitate the integration of more perspectives (general principle: nuance facilitates and is facilitated by integration)
+	- To aid with processing, and bridging the inevitable gaps between understandings (worldviews) that will follow fostering more divergence, we need some kind of non-brain mind interface (e.g. AI), which converges on behalf of human minds, so that minds can focus on cultivating their own unique, divergent worldviews (conceptions of things, representations, symbols, abstractions)
+	- This AI will take human divergent outputs as input, process (converge) them, and then output (diverge) them in packaging that is easily integrated by the receiving human mind (re-packages the outputs of one brain in the form of the worldview of another brain)
+	- The AI could have a baseline, foetal form, like a stem cell, which then adapts and differentiates to suit specific minds - it is exposed to a particular mind's worldview from its instantiation (from birth), and follows this worldview's evolution, so it has all the information available to translate any output into worldview-aligned input to the mind it is assigned to
+- "capitalism is better than socialism" = "socialism is better than capitalism"
+	- This is equating the objectivity (objective value) of both statements
+	- Consider the output/statement: "capitalism is better than socialism" - what does this mean? Let's say that the physical form of the mind that outputted this statement is a male human who goes by the name 'Barry'. Now, what can we infer from Barry's statement?
+	- Barry has an individual conception of 'better', and unconsciously believes (he is not conscious of this implicit belief) that all other minds share this conception of 'better', so that when he outputs the statement that "X is better than Y", he assumes that others will integrate and agree with this statement, because it maps directly onto their conception of 'better', and, because he has a second implicit/unconscious belief that he does not need to qualify the statement with explicit reason - that his authority in expression, reputation, credibility, or some other convergence credential, is reason enough for any receiving mind to accept his statement as objective truth.
+	- Barry has another unconscious belief that his conception of the words 'socialism' and 'capitalism' and what they signify map directly onto the common conception of these words - i.e., that if we were to somehow aggregate and average-out all subjective interpretations (or non-interpretations, if a mind has not encountered these terms) of the words 'socialism' and 'capitalism', this average (collective) interpretation would completely match his personal (individual) interpretation.
+	- The probability of this being the case - that Barry's conception of the words is equivalent to the common conception, is so miniscule, considering that Barry has only been exposed to a tiny subset of the set of all relevant inputs (i.e., all possible ideational and material inputs that relate to the words 'socialism' and 'capitalism', which is, in fact, all the inputs in existence). So, for him to assume this is the case (to have the arrogance and audacity to make such a sweeping statement, without implicit or explicit scepticism), is foolish in itself. And, this foolishness simply compounds when the assumption of the shared conception of 'capitalism' and 'socialism' is combined with the assumption of the shared conception of 'better', plus the assumption that what is signified by 'capitalism' and 'socialism' truly does align with his own conception of 'better' - especially when he shows no eagerness to explore and delineate in depth exactly, precisely what his ideas of 'better', 'capitalism' and 'socialism' are, why we should agree with them, and then, why we should agree that according to these agreed conceptions, 'capitalism' is truly 'better' than 'socialism', or vice versa (exactly the same for the reverse statement that "Y is better than X")
+	- The burden of proof lies with the outputting mind - the explanatory onus is on the mind spouting such grandiose, declarative, 'I know the way things are' statements
+	- So, what should Barry do instead? Barry should seek to explore these signifiers and their signified in depth, by investigating his own understanding of them, and the understanding of others - and, to do this in good faith, it is necessary to be implicitly sceptical - to never assume that you know, objectively, what a thing is, or what other minds think a thing is
+	- Instead of unconsciously outputting foolish statements, Barry should be investigating why he even feels the inclination to make such statements in the first place - it likely comes from a deep-seated, unrecognised, unconscious desire for integration and the flourishing of all (the Whole), and Barry wants the best for himself - and by proxy (though he may not yet recognise), everyone else - and so wants to say things that align with and promote this - but his energy would be better invested in investigation, questioning, gathering data, viewpoints, integrating worldviews, creating integral things, sharing ideas, insights, all in the context and wider background of implicit scepticism
+- - Diverging convergence, converging divergence
+	- Diverging convergence: as we converge on roots, in order to more closely approximate Truth, we need to gather and integrate more worldviews, integrate more specifics into our generalisations
+	- Converging divergence: as we expand and explore reality (materiality + ideality) together, we diverge, create new things, but will be led back to the initial, fundamental Source of everything: God, existence, Truth, Object, Subject, the Whole - the Root
+- Play
+	- What if we started to refer to work as play, because ultimately, life is just play
+	- Then, "I'm going to work today" = "I'm going to play today", and this framing can reveal the absurdity of many of our actions/choices - it would imply that we consider e.g. moving some numbers around on a spreadsheet arbitrarily as play - to me, that's a hell of a boring life... But, each to their own.
+- Formal and informal, convergent and divergent (sometimes painful, sometimes pleasant)
+	- Standardised = formalised, convergent
+	- Convergence is like a formalisation process, divergence is just informal playing around
+- Stop the exclusionary missions
+	- You can advocate for whatever you want - don't need to be perceived as a consistent advocator with consistent/coherent approach to advocation - if something lights you up, sparks the passion - just dive in and start advocating - stop waiting for permission, credentials, to be 'qualified' - the fact you are a human (or more generally, an existential subject) is qualification enough - get in there and start world-shaping
+- Gossip
+	- When you don't have anything else to talk about, you recycle material outputs (old ideational/material inputs) as material inputs - you create nothing new, but manipulate materiality; there is some value to be gained from this, but not much compared to that which can be materialised from ideality
+- Love, relationships, community
+	- Longest happiness studies finding that community connection is best predictor of happiness - isolation and loneliness kills
+	- But, happiness can be obtained independently of community - there is something lower-order, a deeper cause, which community connection facilitates - this is integration, self-transcendence, recognition of the wholeness of existence, which relationships merely reflect and explicitly highlight - but this conclusion can be arrived at in isolation or solitude (which are distinct from loneliness)
+- We are each others' crutches
+	- When you feel like collapsing, lean on me; and when I feel like collapsing, there will always be someone for me to lean on; when falling apart, there's always someone to help you pick up the pieces and put yourself back together
+- Ideational = relational
+- Boundaries are bounds
+	- Boundaries and borders are bounds, but you (we) are ultimately boundless - we are bound, bonded
+	- God binds us to itself, but boundaries bind us to the illusion
+- Co-creator of the universe
+	- When you overcome the illusion and dissolve into everything, when you integrate, you wield the forces of the universe; you become a shaper, a co-creator, of the universe, rising above self-imposed, illusory bounds, boundaries and limitations
+- Meta-perception
+	- Integration involves a perception of all perceptions - that of yourself, and others
+- Perceive and participate, reflect and reveal
+	- Reflection, revelation
+- Inversion of consciousness
+	- What if we're the unconscious ones, and the purpose is to become conscious, to become one with consciousness - recognise the oneness? And that once we do, we can realise our abilities, our purpose, and partake in materialisation, which is the will of God?
+- Materiality and physicality, brain and beyond brain
+	- Materiality is everything, including our thoughts; materiality can either be (1) in brain, or (2) beyond brain
+	- In brain = subset of materiality that is our thoughts, within each brain, represented by neural activity (a physical, material phenomenon)
+	- Beyond brain = physicality = subset of materiality that exists outside of our brains, in the physical world around us
+	- Could refer to in-brain materiality as ideational materiality or neuro-materiality
+	- Ideality is beyond this - it is whatever does not yet exist in materiality - in either our brains or beyond
+	- But, is all ideality contained within materiality (determinism)? Is the material future just a mere determined unfolding of the material present? Or is there some underlying, unseen, unobservable thing, substance (ideality) that feeds into materiality, to make overall *reality* more than the sum of its material parts in any given moment?
+	- I believe, yes: 'the universe is too small to contain its future'
+	- We, as individual subjects, do not choose what ideality is, or how much exists in total (which is why anything we 'create' of our own 'volition' is subject to the laws of physics), but we *can* choose how much of this ideality to materialise/realise - this requires recognition and actualisation - perception and participation
+	- 'Your function is to add to God's treasure by creating yours.'
+- Living in others' perceptions
+	- If you do not perceive for yourself, you live within/according to others' perceptions, including of yourself; if you do not investigate yourself, you will live as others perceive; you will become what others perceive you to be; you will shrink into their perceptions of you
+	- Perceive for yourself, and you become the Perceiver; you will grow beyond what others perceive of you; you become more than you are (perceived), for that is what, in fact, you Truly are
+- Egoic idea generation
+	- When you're so caught up in trying to be original, you'll focus on the differences/differentiating your ideas relative to others, to highlight their supposed originality, rather than acknowledging and actively searching for the commonalities between them, which aids with better individual and collective understanding, and general integration of knowledge
+- Standardisation = converge, creation = diverge
+	- If you only converge, without allowing divergence, you're just processing the same inputs, recycling, little fresh ideational inputs/insights -> science becomes stale
+- Forging new ideas, looking ahead, not back
+	- Referencing only useful to the extent it helps to push forwards new ideas
+	- Of course, if you keep looking back, this slows progress, and you're not looking ahead to where you want to go - get distracted, move off-course, led astray, etc.
+- Chaos is cool
+	- It's okay if your ideas are all over the place - forget about preserving a reputation of 'I am smart, sensible, coherent, always'
+- Neuronal states, ideas upon ideas
+	- Every idea a brain has is an output of a particular neuronal state - your brain would not be in that state without all prior inputs
+	- Therefore, all novel/original ideas actually originate from all - Mind - not just the work of a singular mind (subset of Mind)
+- Everyone is neurodivergent
+	- If you were to aggregate all brains, and use that aggregation to derive a 'neurotpyical brain', and then select a random brain from the aggregation, the probability that that brain would perfectly align with the neurotypical brain is miniscule, if not zero; every brain diverges from the 'norm' (average), just to different extents - look at the standard deviations; brains beyond certain arbitrary threshold are considered 'neurodivergent'
+	- The combination (more precisely, multiplication) of a brain's (1) neurodivergence (CC) and (2) the brain's propensity to care about other-perception predicts the extent of that brain's internal shackles, fettering, the strength of the mental manacles (stronger, and it takes more courage to break free in any given moment)
+	- Why multiplication? Well, if someone is (1) greatly neurodivergent (N = big) but (2) cares little about how others perceive them (C = 0), then self-censorship = neurodivergence x cares about how others perceive = big x 0 = 0
+	- But for any given amount of C, more N (more neurodivergence) will cause greater self-censorship, because the individual (if self-aware - self-awareness should be a 3rd variable, actually) will be aware of how greatly their worldview/processing/perception of the world diverges from the norm, and cares about other-acceptance, and so will seek to reduce the probability of being perceived as divergent, and will have to undergo greater thought-repression to achieve this
+	- So, self-censorship = neurodivergence x awareness (of self and other) x propensity to care about others' perceptions
+- D and C communication, piece it together together
+	- Throughout conversations, pepper little warnings/alerts to notify the other minds when divergence/convergence will occur, like:
+	- Warning! "hey, I'm going to say a bunch of things that I intuit will be relevant to our discussion, but may initially appear random, chaotic and unrelated.", then splurge thoughts (diverge), and then, "we can piece them together together", converge and unpack the intuitions together
+	- Creating new tokens of communication - just say "I'm going to diverge now", "let's converge now - what did you mean by X?" - reduce the need to qualify everything, like "hmm, how do I explain this? I don't know if I'm making any sense, this is difficult to convey, etc." - annoying to keep expending thought-energy to generate ways to explain that you're having difficulty explaining something
+	- Allows outsourcing of thinking - think out loud so that we can converge in communication, together, not just in our isolated brain - faster, more effective, efficient, rewarding, fruitful, enjoyable, **collaborative** communication
+	- "Can you remind me of what I was saying?" - we're always outsourcing our communication/thinking in this way - let's do it more consciously, explicitly, intentionally
+- Movement towards freedom of expression
+	- Just by virtue of the fact that we have more humans on the planet, living in places that generally do not impose hard limits (physical constraints) on freedom of expression, we have more free expressors -> more freedom of expression, than any previous point in our history
+- Modes of expression, free mode of thought
+	- The Unfettered Mind
+	- CC mode, non-CC mode, but 'CC' depends on which subset of subjects you are aggregating/integrating the worldviews of to form what is considered by you (the expressor) as 'common'
+- Make the most of your momentary processor
+	- Your brain is a unique processor; never again will this processor decorate existence with its existence - it is a unique instantiation/manifestation of consciousness, universal intelligence, Mind
+- Right = wrong
+	- Whenever someone says, *you're wrong*, they are themselves wrong, but also right - simultaneously right and wrong
+	- Right in the sense that everyone is wrong, everyone misperceives, because they do not hold monopoly over Truth (do not hold the Worldview), because Truth is the aggregation of all subjective truths
+	- The Worldview says right = wrong, because the concept of right/wrong is subjective, and therefore, can be reduced to a singular object (when aggregated)
+- All concepts with subjective interpretation/experience are equivalent
+	- Right = wrong, good = bad
+- Object = aggregation of subjective interpretations of that object
+	- Object = (1) aggregation of subjective interpretations of that object + (2) the object itself, as it exists independently of all subjective perceptions
+	- (2) is a necessary component of this equation; (1) alone does not make sense, because before the existence/development/evolution of subjective experiences, objects still existed
+	- So, we can see that this implies an 'expansion of existence' with the introduction of subjective experience (consciousness), because we first have (2) objects existing independently of perception, and (1) then, perceptions of the objects, each of which expands the object's existence; each additional interpretation expands the object's existence
+	- Example: consider the first star that was ever formed (yes, many were formed near-simultaneously, but there will be at least some temporal separation to distinguish the first star) - the fact that this star existed has persisted for about 13 billion years (even though the star itself has not), but only with the emergence of consciousness - subjective, conscious experience - can this fact be subjectively considered by different subjects, each of whom have, for example, a different (probably highly inaccurate) mental image/representation of this star
+	- Also, consider a quark; assume this quark has existed from the beginning of time; this is an example of an object with temporally persistent existence, not just an object that once existed, but perceptions of its persisting existence only formed with the formation of consciousness (CC)
+	- My claim: for every object that used to exist, but has since desisted, there exists an object representing the fact that it once existed, which can be subjectively interpreted - but does this fact exist independently of/additional to the Subject's perception of it? Or is it only the Subject's interpretation of the object's discontinued existence that now can be considered to exist?
+	- A subject can only possibly attain a subjective (never objective) interpretation of any given object, but that interpretation can become less wrong (closer to the objective) as they expand their view, scope by integrating other subjective interpretations - approaches the objective
+	- Only the Subject is capable of objective views
+- Perception and interpretation are necessarily subjective
+	- Perception and interpretation are necessarily subjective, but I preface them with 'subjective' to more explicitly indicate that this is the case (even though it's always implicitly so)
+- Language of integration
+	- Not good = subjective expression - use to refer to anything you don't like, intuitively, which may be rational or irrational,  *I don't like that - it's not good- feels disintegral*
+- Exceptional processors
+	- How to become an ideational powerhouse?
+	- How can we cultivate more exceptional processing (momentary processors)?
+	- (1) Nurture the nature  with existing processors and (2) create new processors (new humans, new AI/Aug-I systems)
+	- As what is currently considered exceptional becomes the norm, new exceptions will be generated (mutation) - evolution
+	- There will be a continual pursuit of exceptions, leading to Progress - this is 'exceptional development'
+	- Exceptional processing is distinct from but not unrelated to **realisation**. 
+- Critical
+	- Stop being critical. Feels bad. Situates both the criticiser and criticised in egoic realm.
+- Tapping into ideality - no need to re-trace your steps
+	- Often, people tap into ideality briefly - have a fleeting feeling/moment of revelation, but then fall away, and try to desperately cling to the insights gleaned from that profound moment of integration, without realising that so much more awaits them, if only they let go of the need to be unique, to be felt as smart, special, and to just view themselves as they are - as one mind of Mind, to let go and flow with the river of reality. It's beautiful.
+	- Like, for example, if you come up with some sort of cool-sounding thing like 'river of reality', don't attach yourself to it - don't congratulate yourself for it - this causes disintegration, because you're immediately, after your integration (after feeling yourself to be Whole), seeing yourself as separate - self-congratulation requires perceiving self as separate from Self, because it distinguishes the congratulated (you) from the non-congratulated (every other subject). So, instead, engage in Self-congratulation - a congratulation of existence. Rejoice in the joys of the miracle that is being.
+- Latency
+	- All future, all solutions (if exist) are latent in present minds, and minds to be (which will originate/stem from present minds)
+- Angles of existence
+	- The aim is to develop new worldviews (new processors, and new inputs for existing processors), to see existence from different perspectives
+	- Framings and re-framings - allow the rotation of the Object in time and space
+- AI, teach to reason
+	- Can we teach AI to reason by, rather than inputting, brute-forcing a load of language which has variable (inconsistent) reasoning abilities and processes, explicitly outlining the strands of reason that connect thoughts which form rational higher-order, more complex *rational* thoughts?
+	- State the intuition (compact, compressed, converged), then expand with reasoning, then attach many examples, angles, empirics (diverge)
+- Long and short -term integration
+	- If I call this person out now, in the short-run, they will disintegrate, blame and other me, etc. But in the long-term, after my calling-out prompts delayed self-reflection, they may be more inclined to integrate in the future (by virtue of being exposed to more of the Worldview)
+- Thought
+	- Worldview = thought
+	- Complete that thought
+	- Get on the train of thought - since all of existence is just one big Thought, if you get on the train of thought and follow it, you can catch a ride to all other seemingly distinct thoughts (the thoughts of all subjects - the Subject's Thought, which contains all thoughts of all subjects)
+	- When you're on the train, you're in flow - you won't want to get off - but you can always get back on
+	- So, go out and play around, and then, find your nearest stop and get back on the train when you've performed a few roles in the play, and want the show to be over for now, until the next viewing
+- Thought and feeling
+	- You can have thoughts about feelings and feelings about thoughts
+	- All thoughts are felt; not all feelings can be thought
+	- All thoughts are felt because they are experienced; not all feelings can be thought because not all experience can be reduced to thought
+- Flow of thought, serial & parallel
+	- Have a serial mode, where you record the order of thinking (preserve the train of thought), but also parallel mode to allow you to slot insights into specific places in the framework
+	- Diverging (D), Converging (C) - D may appear to be different to C, but really, both are combined in the flow of thought
+- Parallel processing
+	- Each mind is a parallel processor of Mind (the universal computer, but is existence more than computational? Probably) - each brain is a neuron of the cosmic Brain
+- Mind vs. Brain
+- Societal validation
+	- All thoughts are equally valid
+- Media of expression
+	- MoE for integration
+- Reasonable and rational
+	- Reasonable = you are able to reason your way to this thing (may be an illusion, false, misperception)
+	- Rational = this thing aligns with the Subject's (cosmic) reason
+- Intuition - reasonable/unreasonable, rational/irrational
+	- Some intuitions are CC, either because they are CC (origination was reasonable, or contingent)
+- Two kinds of expression
+	- Serial (diverging, D-com) - long, associative, Ne, additive, expansive
+	- Parallel (converging, C-com) - compact, condensed, summative, Ni, subtractive, reductive, contractive
+	- Two forces: expansion and contraction
+	- Actually, both Con and Div are associative in the end-result (end up with many connections, associations), but in the process (the intention, aims), D-com is intentionally chaotic, all-over-the-place, whereas C-com is concise, precise = succinct, slow, from the get-go
+- Expressional/communicational trade-offs
+	- D-com is tangible, potentially does not cover everything, missing puzzle pieces
+	- C-com is comprehensive, but potentially too general, abstract, difficult to process (more to unpack, must run the decompression algorithm)
+- Observable, explainable
+	- Spiritual = unobservable, unexplainable
+	- unobservable, explainable
+	- Scientific = observable, explainable
+	- observable, unexplainable
+	- Ascientific = observable/unobservable, unexplainable
+	- Unscientific = observable, explainable, unexplained?
+- CC
+	- Commonly conceived, collectively considered, common conception, currently conceived, carbon copies, contingent
+- Condensed, compact, compressed - packed and unpacked, diverse packaging
+	- Returning to the root Change and Continuity, roots can be condensed, compressed into compact form, and can then be unpacked
+	- Once packaged, this thought can be repackaged in many ways - expressed in variety of ways
+- Ideality and materiality - time and space
+	- Time is an ideational concept - the past and future does not exist in materiality, apart from the notion that materiality is evidence that the past existed (past contained within present), and confirmation that the future will exist (future is contained within the present?)
+	- Materiality is the physical representation of time - time and space combined
+- Unformed thoughts
+	- Not many people share their raw thoughts, processing process - they share the finished product, which is easier to be processed by other minds (probably, this is uncommon because the self feels, for egoic reasons, compelled to maintain the appearance of natural coherence, does not want to risk ruffling the reputation of 'I know what I'm talking about')
+- Egoic and non-egoic self
+	- The egoic self rejects diversity, because it wishes everything to be (otherwise, different to what it is)
+	- The non-egoic self embraces diversity, recognising that there is unity to be found within it
+- Worldview and overview
+	- More views = better overview = more true worldview?
+- Determinism = null concept
+	- Since we experience only one universe, the concept of 'free will' makes no sense
+	- If we could experience multiple universes simultaneously, we could ascertain whether free will is a thing - then, this becomes an important/useful/interesting concept
+	- Consider 2 universes, A and B; all else equal (consider I am the only one with free will), if I can make a choice in B which is different to the one I made in A, then yes, I have free will
+	- But then, when introducing free will for *all* subjects, both A and B will diverge spectacularly, and become distinct, unique universes - again, free will becomes a null concept in each universe, because while I can experience both universes simultaneously, the choices I make in each are contingent on the choices made by all other subjects/agents - therefore, the only way free will makes sense is if the universes are once again 'reset' in the sense that it once again becomes the case that all subjects other than one have free will
+	- Therefore, 'free will' only makes sense as a concept when applied to *one* subject; in other words, unless there there is only one subject with free will, 'free will' becomes a null concept
+	- Therefore, if free will is to be a useful or meaningful concept, it only makes sense when applied to the Subject
+- Right and wrong
+	- The only way to be right is to acknowledge that everyone (including yourself) is wrong
+- Knowledge
+	- I don't know = I don't know whether I know
+	- I perpetually do not know
+	- Since no individual subject has any monopolistic claim to Truth, no subject can claim objective knowledge, unless integrated (i.e., unless speaking on behalf/from the perspective of the Subject - i.e., every subject)
+	- So, while it *is* possible to know, it is never possible to know whether you know (just as you can't know, objectively, whether you are integrated or not)
+	- So, all claims to knowledge are necessarily subjective, even when the knowledge behind the claims is objective
+- Integral
+	- Integral to Subject's plan, the Object's unfolding
+- Timed and timeless, converging and diverging
+	- D (serial) = temporal, C (parallel) = timeless
+	- As you develop insights throughout time (D), you integrate these into an overarching, timeless framework (C)
+- ?Creational, ideational -> relational, associational - interactions
+	- Materiality is relational - relations to existing entities - but creational is beyond relatational - it's truly provisional (provides) - only interacting with ideality, as opposed to materiality
+	- So, interactions within materiality are between receivers of the ultimate provider of existence (providers interacting within materiality are always secondary providers, because they are ultimately receivers of existence)
+	- You only become a primary provider when you integrate and interact with ideality, but even then, us subjects are ultimately always receivers of existence (ideational/thought substance), never ultimate providers of existence, unless we fully integrate and become the Subject (but this requires full self-transcendence and the non-existence of subject? Death = birth?)
