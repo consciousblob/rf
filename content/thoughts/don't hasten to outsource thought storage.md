@@ -7,7 +7,7 @@ related:
   - "[[OX - Output]]"
 priority:
 status: "0"
-publish: true
+publish: false
 title: don't hasten to outsource thought storage
 ---
 

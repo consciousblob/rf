@@ -4,10 +4,10 @@ created: 2026-07-26
 source:
   - text
 related:
-priority: 
-status: 
-publish: true
-title: "M - Experiments"
+priority:
+status:
+publish: false
+title: M - Experiments
 ---
 To hold things I'm trialling in my own mindware/mindscaping (thought cultivation & expression) endeavours, starting [[Sun 26-07-2026]].
 
